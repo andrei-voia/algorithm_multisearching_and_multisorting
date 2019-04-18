@@ -1,0 +1,4238 @@
+962912 supraveghetor sali spectacole
+111102 ambasador
+962910 supraveghetor muzeu
+111104 comandant unic aviatie
+962908 plasator
+111106 comisar general adjunct
+962906 controlor poarta
+111108 guvernator
+962904 ucenic
+111110 presedinte Înalta Curte de Casatie si Justitie
+962902 gonaci
+111112 presedinte Curtea de Conturi a României
+962402 operator deratizare, dezinsectie, dezinfectie
+111114 presedinte Camera Deputatilor
+962302 casier încasator
+111116 presedinte tribunal
+962204 prinzator câini
+111118 prim-procuror
+962202 gropar
+111120 prim-adjunct al procurorului general
+962104 distribuitor presa
+111122 procuror general
+962102 hamal
+111124 procuror sef de sectie adjunct
+961304 lucrator utilaje specializate pentru salubrizare
+111126 secretar Parlament
+961302 lucrator pentru salubrizare spatii verzi
+111128 vicepresedinte (la Înalta Curte de Casatie si Justitie, Curtea de Apel, tribunale si judecatorii
+952002 vânzator de ziare
+111130 membru al Consiliului Superior al Magistraturii
+951002 spalator geamuri si parbrize
+111132 inspector în cadrul Inspectiei Judiciare pentru judecatori/ procurori
+933306 muncitor în serviciile de trafic aerian
+111134 ministru
+933304 operator transport si distribuire butelii de GPL
+111136 ministru de stat
+933302 legator de sarcina
+111138 deputat
+932912 operator umplere recipiente GPL
+111140 subsecretar de stat
+932910 umplutor sifoane
+111202 consilier guvernamental
+932908 îmbuteliator gaz petrol lichefiat
+111204 consilier institutii publice
+932906 muncitor necalificat la asamblarea, montarea pieselor
+111206 consul general
+932904 muncitor necalificat la ambalarea produselor solide si semisolide
+111208 director adjunct institutie publica
+932902 marcator piese
+111210 director general institutie publica
+931302 muncitor necalificat la spargerea si taierea materialelor de constructii
+111212 inspector de stat sef
+931204 sapator manual
+111214 magistrat-asistent-sef
+931202 îngrijitor spatii verzi
+111216 notar-sef adjunct
+931102 împingator vagoneti
+111218 prefect
+921602 muncitor piscicol
+111220 sef birou institutie publica
+921502 muncitor necalificat în silvicultura
+111222 sef birou senatorial
+921302 muncitor necalificat în agricultura
+111224 sef protocol de stat
+912104 spalator covoare înnodate
+111226 subprefect
+912102 curatatoreasa lenjerie
+111228 presedinte institutie publica
+911202 îngrijitor spatii hoteliere
+111230 consilier parlamentar
+835008 timonier maritim/ fluvial
+111232 atasat diplomatic
+835006 servator far maritim si statie semnal de ceata
+111234 secretar diplomatic
+835004 conducator ambarcatiuni agrement pe ape interioare
+111236 consultant prezidential si guvernamental
+835002 observator far maritim si statie semnal de ceata
+111238 director general adjunct
+834406 conducator autoîncarcator portuar
+111240 inspector sef teritorial
+834404 tractorist portuar
+111302 secretar primarie, prefectura
+834402 masinist la alte masini fixe de transport pe orizontala si verticala
+834316 operator la platforme pentru lucru la înaltime
+111402 presedinte consilier organizatie politica
+834314 docher-mecanizator
+111404 secretar organizatie politica
+834312 docher instalatii de încarcare/ descarcare la bordul navei si cheu
+111406 loctiitor al conducatorului de asociatii, filiale si organizatii obstesti
+834310 docher
+111408 presedinte organizatie sindicala
+834308 mecanizator (muncitor portuar
+111410 secretar organizatie sindicala
+834306 supraveghetor statie senal navigabil
+111412 presedinte asociatie nationala cooperatista 
+834304 macaragiu macarale plutitoare
+111414 secretar general asociatie nationala cooperatista
+834302 masinist pod rulant
+111416 vicepresedinte asociatie teritoriala de organizatii cooperatiste
+834206 operator la utilaje pentru subtraversari
+111418 sef departament organizatie sindicala
+834204 operator la utilaje de forjat dirijat
+111420 vicepresedinte organizatie cooperatista
+834202 masinist la instalatiile de preparat si turnat beton si mixturi asfaltice
+111422 vicepresedinte asociatie patronala
+834106 operator la colectatul si manipulatul lemnului
+111424 vicepresedinte organizatie profesionala nationala
+834104 mecanic de exploatare în cultura mare
+111426 presedinte organizatie profesionala, filiala judeteana/ municipiu
+834102 combiner agricol
+111428 secretar organizatie profesionala, filiala judeteana/ municipiu
+833204 conducator autospeciala
+111430 consilier presedinte organizatie profesionala, filiala judeteana/municipiu
+833202 sofer transport valori bancare
+111432 delegat sindical local
+833102 conducator troleibuz
+111434 secretar al organizatiilor umanitare
+832204 pilot încercare auto
+112002 comandant port, flota
+832202 sofer autosanitara
+112004 director societate comerciala
+832102 conducator de motoscuter
+112006 inspector general scolar
+831206 paznic bariera
+112008 inspector sanitar sef
+831204 acar
+112010 medic (farmacist director adjunct
+831202 manevrant vagoane
+112012 director general adjunct societate comerciala
+831106 mecanic ajutor locomotiva si rama electrica metrou
+112014 director general regie autonoma
+831104 mecanic conducator vagon motor de rectificare a liniei aeriene
+112016 director control risc
+831102 mecanic ajutor locomotiva si automotor
+112018 director vânzari
+821908 confectioner-asamblor articole din textile
+112020 director economic
+821906 confectioner-asamblor articole din lemn
+112022 sef corp executori bancari
+821904 operator la fabricarea fermoarelor
+112024 director tehnic
+821902 asamblor jucarii
+112026 director incubator tehnologic de afaceri
+821222 montator electromecanic
+112028 manager general
+821220 confectioner lampi cu vapori de sodiu
+112030 sef cancelarie
+821218 confectioner lampi fluorescente
+112032 antreprenor în economia sociala
+821216 confectioner circuite imprimate
+112034 inspector scolar general adjunct
+821214 confectioner circuite integrate
+112036 manager de întreprindere sociala
+821212 montator-reglor, depanator de aparate radio si TV, redresoare si amplificatoare
+821210 confectioner tuburi cinescop
+121102 economist-sef
+821208 confectioner cabluri si arbori de cabluri
+121104 director executiv banca/ director/director adjunct
+821206 preparator lesie pentru acumulatori
+121106 sef proiect banca
+821204 confectioner gratare si accesorii pentru acumulatori
+121108 coordonator compartiment/ colectiv banca
+821202 confectioner protectie dielectrica pentru acumulatori
+121110 director unitate bancara operationala/ director adjunct unitate
+821106 operator fabricatie flux
+121112 contabil-sef/ director financiar/ banca/ societate de leasing
+821104 montator aparate aer conditionat
+121114 director/ director adjunct divizie/ directie de leasing
+121116 director/ director executiv conformitate
+821102 pregatitor si montator utilaje tehnologice
+121118 manager securitatea informatiei (Chief Information Security Officer -CISO
+818908 operator montaj linii automate
+121120 contabil-sef
+818906 pompagiu
+121122 sef agentie CEC
+818904 operator generatoare terestre sonice si cu agent activ de însamântare
+121124 sef birou/ serviciu financiar-contabilitate
+818902 operator la tratarea si epurarea apelor uzate
+121126 manager relatii financiare externe
+818304 operator ma?ini paletizate ?i înfoliere pentru fabrica de ciment
+121128 sef birou financiar
+818302 operator la masina de etichetat
+121130 sef birou analize economice
+818208 fochist pentru cazane conduse de calculator
+121202 sef birou pensii
+818206 fochist pentru cazane mici de abur
+121204 sef oficiu somaj
+818204 fochist pentru cazane de abur si de apa fierbinte
+121206 sef serviciu evaluarea resurselor de munca
+818202 fochist la masini cu abur
+121208 sef centru perfectionare
+818142 prelucrator produse ceramice prin injectare
+818140 prelucrator produse ceramice prin extrudare
+121302 sef serviciu organizatie politica, obsteasca, umanitara
+818138 cuptorar produse din carbune
+121304 sef executiv audit intern
+121306 manager de securitate
+818136 formator produse refractare
+121308 manager informatii pentru afaceri
+818134 preparator-presator abrazive
+121310 sef birou corp control
+818132 granulator/ sortator abrazive
+121902 sef atelier
+818130 operator abrazive pe suporti
+121904 sef birou
+818128 operator la fabricarea produselor abrazive
+121906 sef birou/ serviciu administrativ
+818126 arzator produse ceramice
+121908 registrator-sef
+818124 strungar produse ceramice
+121910 grefier sef de sectie (curte de apel, tribunal, parchete
+818122 securizator geam
+121912 sef laborator criminalistica
+818120 taietor geam
+121914 sef sectiune tehnica
+818118 turnator geam
+121916 responsabil industrializare produs
+818116 prelucrator fire si tesaturi din fire de sticla
+121918 ?ef sucursala (studii superioare
+818114 operator la prelucrarea tuburilor din sticla
+818112 operator la instalatii automate pentru prepararea amestecului
+122102 sef birou marketing
+818110 sablator produse din sticla
+122104 director operatii tranzactii
+818108 slefuitor produse din sticla
+122106 sef agentie bursiera
+818106 confectioner termosuri
+122108 conducator firma mica - patron (girant în afaceri, intermedieri si alte servicii comerciale
+818104 prelucrator de tuburi si baghete
+818102 prelucrator de topituri la semiautomate
+122202 sef birou reclama publicitara
+817236 operator la recoltarea si toaletarea arborilor forestieri
+817234 preparator PPF
+122302 geolog-sef
+817232 presator produse stratificate
+122304 sef formatie lucrari geologice
+817230 fasonator-uscator furnire
+122306 meteorolog-sef
+817228 decupator furnire
+122308 sef atelier editie, multiplicare, expeditie
+817226 fasonator cherestea
+122310 sef sectie cercetare-proiectare
+817224 gaterist la taiat busteni
+122312 responsabil CTE (control tehnic-economic în cercetare-proiectare
+817222 finisor la înnobilare PFL
+122314 sef proiect/ program
+817220 presator la înnobilare PFL
+817218 impregnator la înnobilare PFL
+131102 inginer-sef agricultura si silvicultura
+817216 tratamentist PFL
+131104 medic veterinar sef
+817214 filtrator-deshidratorist
+131106 sef centru reproductia si selectia animalelor
+817212 formator finisor placi
+131108 sef circumscriptie sanitar-veterinara si control al alimentelor
+817210 încleietor placi aglomerate
+131110 sef fazanerie
+817208 pregatitor lemn aschietor
+131112 sef laborator analize pedologice
+131114 sef parchet
+817206 confectioner placi izolatoare
+131116 sef statie hidrologica, meteorologica si incubatie
+817204 masinist la masina de taiat sraifuri si dopuri din pluta
+131118 sef statie vinificatie
+817202 confectioner bastoane din pluta
+131120 inspector veterinar sef
+817108 confectioner produse igienico-sanitare
+131122 conducator întreprindere mica - patron (girant în agricultura si silvicultura
+817106 masinist la deshidratare pasta hârtie
+131202 inginer-sef piscicultura si vânatoare
+817104 albitor pasta hârtie
+817102 preparator pasta
+132102 sef atelier industria prelucratoare
+816052 preparator vermut
+132104 sef laborator în industria prelucratoare
+816050 operator la fabricarea amidonului si dextrinei
+132106 sef sectie industrie prelucratoare
+816048 preparator rachiuri industriale si lichioruri
+132108 sef birou industrie prelucratoare
+816046 operator la fabricarea glucozei
+132110 conducator întreprindere mica - patron (girant industrie prelucratoare
+816044 vinificator-pivnicer
+132112 sef birou calitate
+816042 operator la fabricarea maltului
+132114 sef structura de securitate
+816040 operator la prepararea bauturilor alcoolice si racoritoare
+132202 sef atelier industria extractiva
+816038 operator la fermentarea tutunului si fabricarea produselor din tutun
+132204 sef modul în industria extractiva
+816036 preparator surogate cafea
+132206 sef serviciu industrie extractiva
+816034 conditioner miere
+132208 manager securitate instalatii industria extractiva
+816032 operator la fabricarea conservelor din legume sau fructe
+132210 inginer- sef exploatare nucleara
+816030 preparator napolitane
+132212 sef unitati miniere
+816028 preparator înghetata
+132214 inspector sef conservarea energiei
+816026 operator la prepararea produselor zaharoase
+132216 sef laborator control tehnic de calitate a combustibilului nuclear
+816024 preparator extracte, arome si esente
+132218 sef serviciu termochimic
+816022 preparator boia de ardei
+132220 sef centrala electrica, gaze si apa
+816020 morar
+132222 inspector general industria petroliera
+816018 operator la fabricarea untului
+132224 sef instalatie petroliera
+816016 operator la prepararea produselor lactate
+132226 sef statie epurare ape reziduale
+816014 matar
+132228 sef formatie în industria de masini si echipamente
+816012 valorificator glande
+132230 sef/ sef adjunct centru exploatare retele electrice
+816010 colector si preparator faina, sânge, carne, oase
+132232 sef dispecer energetic teritorial (DET
+816008 colector si sortator par
+132234 sef schimb
+816006 topitor grasimi comestibile si de uz industrial
+816004 preparator peste, raci, broaste în cherhanale si oficii
+132302 inginer- sef în constructii
+816002 operator la valorificarea subproduselor de abator
+132304 sef atelier în constructii
+815906 finisor confectii industriale din blana
+132306 sef laborator în constructii
+815904 cusator confectii industriale din blana
+132308 sef santier
+815902 croitor confectii industriale din blana
+132310 sef sectie productie, exploatare, întretinere, reparatii în constructii si lucrari publice
+815608 finisor încaltaminte
+132312 sef birou în constructii
+815606 tragator fete pe calapod
+132314 sef sistem exploatare îmbunatatiri funciare
+815604 pregatitor piese încaltaminte
+815602 operator la confectionarea industriala a articolelor din cauciuc si textile cauciucate
+132402 comandant nave maritime
+815508 vopsitor îmbracaminte din blana
+132404 conducator (director si director adjunct Administratia Filiala Dunarea de Jos (AFDJ
+815506 operator argasitor
+132406 inginer- sef transporturi
+815504 operator finisor mineral
+132408 revizor general siguranta circulatiei
+815502 operator tabacitor mineral argasitor
+132410 sef atelier aeroport
+815430 operator universal - spalator textile si curatitor chimic
+132412 sef autobaza
+815428 confectioner sabloane la imprimerie
+132414 sef birou/ serviciu relatii internationale
+815426 naphtolator la imprimerie
+132416 sef coloana auto
+815424 operator uscator textile
+132418 sef district cai ferate, poduri, drumuri
+815422 operator metrar-volator-dublator textile
+132420 sef laborator aeroport
+815420 operator tunsator textile
+132422 sef regulator circulatie cai ferate
+815418 operator piuar
+132424 sef revizie vagoane
+815416 operator presator tesaturi textile (storcator textile
+132426 sef serviciu, centru, statie, aeroport
+815414 operator impregnator textile
+132428 sef statie cai ferate
+815412 operator apretor textile
+132430 sef agentie pilotaj
+815410 operator imprimeur textile
+132432 diriginte oficiu transporturi
+815408 operator pregatitor chimicale în industria textila
+132434 comandant instructor
+815406 operator fierbator textile
+132436 sef mecanic maritim/ fluvial
+815404 operator spalator textile
+132438 sef atelier reparatii
+815402 operator descleietor textile
+132440 sef trafic auto intern
+815308 spanuitor confectii
+132442 sef departament logistica
+815306 rihtuitor confectii
+132444 sef depozit
+815304 operator la confectionarea industriala a manusilor din piele
+132446 sef siloz
+815302 operator confectii îmbracaminte din piele si înlocuitori
+132448 manager achizitii
+815214 confectioner polizoare din pâsla
+132450 manager aprovizionare
+815212 operator rasucitor fire
+132452 conducator întreprindere mica - patron (girant în transporturi
+815210 operator bobinator-dublator
+815208 operator încheietor fire
+133002 sef oficiu de calcul
+815206 operator canelator
+133004 sef laborator informatica
+815204 operator la masini de tricotat circular
+133006 director departament informatica
+815202 operator la deservirea razboaielor de tesut
+815126 prelucrator deseuri gogosi de matase naturala
+133010 sef atelier telecomunicatii
+815124 înnodator fire de matase naturala
+133012 sef birou radiotelecomunicatii
+815122 pregatitor gogosi de matase (fierbator
+133014 sef centru control calitate emisie radiofonica
+815120 cilindror în filaturi
+133016 sef centru control local comunicatii
+815118 montator la lipit ace
+133018 sef centru postal
+815116 operator masini puitoare
+133020 sef centru (sectie, sector telecomunicatii
+815114 pieptanator
+133022 sef centru zonal de interventii translatare TV
+815112 cardator
+133024 sef formatie operationala telecomunicatii
+815110 scuturator
+133026 sef laborator radioteleviziune
+815108 destramator
+133028 sef lot telecomunicatii
+815106 scuturator in si cânepa
+133030 sef serviciu control zonal comunicatii
+815104 melitator in si cânepa
+133032 sef serviciu informare zbor
+815102 decuscutor
+133034 sef serviciu radiotelecomunicatii
+814302 operator la masina de laminat
+133036 sef statie radiorelee
+814210 operator masini de termoformatare
+133038 sef studio
+814208 operator sudare tevi si fitinguri din polietilena de înalta densitate PEHD
+133040 telegrafist- sef
+814206 creator, modelier mase plastice
+133042 sef oficiu special posta
+814204 presator mase plastice
+133044 sef turn telecomunicatii
+814202 valtar calandru mase plastice
+133046 sef Centru National de Telecomunicatii Aeronautice Aviatie Civila
+814130 operator fabricarea si prelucrarea polimerilor
+814128 pregatitor pentru încaltaminte si articole tehnice din cauciuc
+134202 biochimist sef sectie, laborator
+814126 conditioner-finisor produse din cauciuc
+134204 chimist sef sectie, laborator
+814124 masinist la confectionarea foliilor de cauciuc electroizolante
+134206 farmacist diriginte
+814122 masinist la confectionarea materialelor electroizolante impregnate
+134208 medic- sef (policlinica, statie de salvare, centru de recoltare sânge
+814120 preparator cauciuc electroizolant
+134210 moasa-sefa
+814118 vulcanizator piese din cauciuc la prese
+134212 psiholog sef sectie, laborator
+814116 stantator piese pentru încaltaminte din piele si cauciuc
+134214 tehnician sanitar sef
+814114 impregnator produse din cauciuc
+134402 conducator de întreprindere mica - patron (girant în sanatate
+814112 rafinator regenerare cauciuc
+134502 director unitate de învatamânt
+814110 pregatitor regenerare cauciuc
+134504 sef lectorat
+814108 finisor încaltaminte si articole tehnice din cauciuc
+134506 conducator de întreprindere mica - patron (girant în învatamânt
+814106 operator la prelucrarea cauciucului
+134508 director club sportiv scolar
+814104 vulcanizator de produse industriale din cauciuc
+134602 sef serviciu/ sef birou daune
+814102 pregnator prize tehnice si banda izolatoare
+134902 sef vama
+813208 operator la fabricarea filmelor fotografice
+134904 sef atelier reparatii obiecte de uz casnic, curatatorii si alte servicii pentru populatie
+813206 retusor clisee
+134906 sef centru dezinfectie, deratizare si dezinsectie
+813204 fotoreproducator
+134908 librar – sef
+813202 fotocopist
+134910 redactor- sef presa, editura
+813154 operator la producerea sodei si produselor clorosodice
+134912 secretar general redactie
+813152 pregatitor, completator de echipamente tehnice si SDV-uri
+134914 sef birou redactie
+813150 operator la tragere si munitie
+134916 sef oficiu juridic
+813148 preparator la produse explozive
+134918 producator executiv TV
+813146 nitrator
+134920 director departament securitate
+813144 confectioner fitile
+141102 sef complex hotelier
+813142 preparator ser vaccin
+141104 administrator hotel
+813140 preparator prafuri de spalat si curatat
+141106 director de motel
+813138 operator chimist la produsele farmaceutice si chimice pure
+141108 director de camping
+813136 operator la produse odorante sintetice
+141110 director de popas turistic
+813134 operator la fabricarea glicerinei si acizilor grasi
+141112 director rotiserie
+813132 preparator ferodouri
+141114 director braserie
+813130 producator de fire si fibre sintetice
+141116 director gradina de vara
+813128 operator chimist la fabricarea altor produse organice
+141118 director cafenea
+813126 operator chimist la chimizarea gazelor de rafinarie
+141120 director unitati tip fast-food
+813124 operator lacuri electroizolante
+141122 director de club (hotelier
+813122 operator la obinerea produselor din spume poliuretanice si latex
+813120 operator chimist la fabricarea lacurilor, vopselelor si uleiurilor
+141202 director de departament alimentatie
+813118 distilator în industria chimica
+813116 extractorist uleiuri volatile naturale si colesterina
+142002 sef baza receptie
+813114 fermentator în chimie
+142004 sef birou comert cu ridicata si cu amanuntul
+813112 operator poliesteri armati cu fibra de sticla
+142006 sef statie PECO
+813110 filator fibre sticla
+142008 manager de zona
+813108 operator la fabricarea sticlei
+142010 sef agentie comerciala
+813106 preparator în industria chimica
+813104 operator la instalatii de ardere
+143102 comandant aeroclub
+813102 operator la masini de fragmentare (produse chimice
+143104 director asezamânt cultural
+812226 confectioner de elemente galvanice
+143106 presedinte federatie sportiva
+812224 confectioner si legator depolarizator
+143108 secretar general federatie sport
+812222 pregatitor seturi de cabluri electrice pentru autotrac si accesorii
+143110 sef productie film
+812220 confectioner mantale de plumb prin presare la cabluri
+143112 sef atelier productie film
+812218 protejator conductori cabluri si condensatori statici de forta
+143114 conducator de întreprindere mica - patron (girant în sport
+812216 acoperitor metale
+812214 preparator email
+143902 sef agentie/ oficiu turism
+812212 emailator prin pudrare
+143904 sef atelier presa
+812210 emailator insigne si decoratii
+143906 sef serviciu control tehnic presa
+812208 metalizator-termist
+143908 manager în activitatea de turism
+812206 operator la confectionarea materialelor electroizolante
+143910 director centru informare turistica
+812204 confectioner protectii si obiecte anticorozive
+143912 conducator de pensiune turistica (rurala, agroturistica, montana
+812202 metalizator prin pulverizare
+143914 sef centru meteo aeronautic
+812146 regulator tevi
+143916 sef Centru National pentru Protectia Meteorologica a Navigatiei Aeriene
+812144 finisor laminate si trefilate
+143918 director de departament ticketing
+812142 operator la instalatii de tratament termic cu procesare
+211102 cercetator în fizica
+812140 calitor scule
+211104 cercetator în fizica-chimie
+812138 termist-tratamentist de piese semifabricate, finite
+211106 cercetator în fizica tehnologica
+812136 laminator
+211108 cercetator în astronomie
+812134 alimentator-încalzitor de materiale
+211110 cercetator de aeronave
+812132 laminator de benzi la rece
+211112 asistent de cercetare de aeronave
+812130 laminator de tevi
+211114 inginer de cercetare în constructii aerospatiale
+812128 laminator tabla subtire
+812126 topitor, turnator metale pretioase
+211202 meteorolog previzionist
+812124 laminator semifabricate, profiluri tabla si platbanda
+211204 meteorolog aeronautic
+812122 masinist exhaustor
+211206 asistent meteorolog
+812120 dozator la producerea aglomeratului
+211208 coordonator interventii active în atmosfera
+812118 masinist suflante
+211210 asistent de cercetare în meteorologie
+812116 granulator zgura
+211302 consilier chimist
+812114 conditioner-finisor
+211304 inspector de specialitate chimist
+812112 rafinator metale neferoase
+211306 cercetator în chimie
+812110 preparator la concentratele miniere
+211308 cercetator în biochimie tehnologica
+812108 metalurgist pulberi din oxid de fier
+211310 cercetator în chimie fizica
+812106 operator oxizi de plumb
+812104 pregatitor materiale de sarje
+211402 expert geolog
+812102 furnalist
+211404 referent de specialitate geolog
+811412 operator flux pentru fabrica de ciment
+211406 expert geofizician
+811410 confectioner garnituri din azbest
+211408 referent de specialitate geofizician
+811408 masinist pentru prefabricate din beton si beton armat
+211410 expert hidrogeolog
+811406 tratamentist produse din azbociment
+211412 referent de specialitate hidrogeolog
+811404 morar lianti
+211414 expert hidrolog
+811402 fasonator produse din azbociment
+211416 referent de specialitate hidrolog
+811314 operator flotare produse fluide
+211418 expert pedolog
+811312 sondor la punerea în productie
+211420 referent de specialitate pedolog
+811310 sondor la forajul mecanizat si reparatii sonde
+211422 geolog
+811308 operator masuratori speciale sonde
+211424 hidrolog
+811306 operator extractie titei în subteran
+211426 cercetator în geologie
+811304 operator transport pe conducte singulare gaze
+211428 cercetator în geologie tehnica
+811302 sondor la foraj manual
+211430 cercetator în geofizica
+811212 concasorist
+211432 cercetator în mineralogia tehnica si experimentala
+811210 morar la masini de maruntit roci
+211434 cercetator în geochimie
+811208 flotator la prepararea carbunilor
+211436 cercetator în geologie petroliera
+811206 prelucrator mica
+211438 cercetator în geodezie
+811204 operator la sfarâmarea minereurilor
+211440 asistent de cercetare în geodezie
+811202 distilator la prepararea carbunelui
+211444 cercetator stiintific în domeniul hidrologiei, hidrogeologiei si gospodaririi apelor
+811106 excavatorist pentru excavatoare cu rotor de mare capacitate
+211446 hidrogeolog
+811104 masinist pentru utilaje specifice la extractie si executia tunelurilor
+212002 expert matematician
+811102 miner la suprafata
+212004 referent de specialitate matematician
+754204 pirotehnician
+212006 expert actuar
+754202 artificier la lucrari de suprafata
+212008 referent de specialitate actuar
+754108 sef de scufundare
+212010 actuar (studii superioare
+754106 operator barocamera
+212012 expert statistician
+754104 scafandru sef utilaj
+212014 referent de specialitate statistician
+754102 scafandru lucrator subacvatic
+212016 asistent de cercetare în matematica
+753606 opincar
+212018 asistent de cercetare în matematica-mecanica
+753604 curelar, confectioner harnasamente
+212020 asistent de cercetare în matematica aplicata
+753602 confectioner articole din piele si înlocuitori
+212022 asistent de cercetare în matematica-fizica
+753504 mestesugar finisor vegetal
+212024 asistent de cercetare în matematica-informatica
+753502 mestesugar cenuseritor
+212026 asistent de cercetare în statistica
+753402 saltelar
+212028 asistent de cercetare în demografie
+753304 broder manual - mecanic
+213102 expert biolog
+753302 stopeur
+213104 referent de specialitate biolog
+753206 croitor confectioner costume teatru
+213106 expert botanist
+753204 confectioner reparator cravate
+213108 referent de specialitate botanist
+753202 multiplicator sabloane croitorie
+213110 expert zoolog
+753112 cojocar
+213112 referent de specialitate zoolog
+213114 biolog
+753110 blanar - confectioner îmbracaminte din blana, dupa comanda
+213116 botanist
+753108 curatitor - reparator palarii
+213118 expert bacteriolog
+753106 modista
+213120 referent de specialitate bacteriolog
+753104 ajutor maistru croitor
+213122 expert biochimist
+753102 lenjer, confectioner lenjerie dupa comanda
+213124 referent de specialitate biochimist
+752328 operator la masini unelte cu comanda numerica în prelucrarea lemnului
+213126 expert farmacolog
+752326 preparator paste chimice pentru chibrituri
+213128 referent de specialitate farmacolog
+752324 fasonator creioane si tocuri
+213130 expert microbiolog
+752322 confectioner mine pentru creioane
+213132 referent de specialitate microbiolog
+752320 tâmplar mecanic la strunjit
+213134 bacteriolog
+752318 tâmplar mecanic la rindeluit
+213136 cercetator în biologie
+752316 gradator rechizite si articole tehnice din lemn
+213138 cercetator în microbiologie-bacteriologie
+752314 circularist la taiat lemne de foc
+213140 cercetator în biologie chimie
+752312 montator accesorii pentru calapoade
+213142 cercetator în botanica
+752310 pastator cutii chibrituri
+213144 cercetator în domeniul zoologic
+752308 confectioner gamalii chibrituri
+213146 cercetator în ecologie si protectia mediului
+752306 confectioner cutii chibrituri din furnir
+213148 cercetator în ingineria genetica
+752304 confectioner articole speciale din lemn
+213150 cercetator în antropologie biologica
+752302 reglor masini de prelucrat lemn
+213152 inginer biotehnolog
+752220 restaurator sarpante si structuri din lemn
+213202 expert inginer agronom
+752218 preparator-dozator adezive, rasini, lacuri si emailuri în industria lemnului
+213204 referent de specialitate inginer agronom
+752216 confectioner-montator cercuri la butoaie
+213206 expert inginer horticol
+752214 pregatitor suprafete pentru lacuit
+213208 referent de specialitate inginer horticol
+752212 marangoz cala - tachelagiu
+213210 expert inginer zootehnist
+752210 tâmplar manual ajustor montator
+213212 referent de specialitate inginer zootehnist
+752208 tâmplar manual la presare si încleiere
+213214 subinginer zootehnist
+752206 confectioner-montator produse din lemn
+213216 proiectant inginer în agricultura
+752204 marangoz-calafatuitor
+213218 proiectant inginer în silvicultura
+752202 tâmplar carosier
+213220 expert inginer silvic
+752104 uscator, aburitor material lemnos
+213222 referent de specialitate inginer silvic
+752102 pregatitor paste chimice
+213224 inginer/ subinginer silvic
+751404 lucrator în procesarea de fructe de padure si ciuperci de padure
+213226 inginer zootehnist
+751402 uscator-deshidrator legume, fructe
+213228 subinginer îmbunatatiri funciare
+751302 preparator produse lactate
+213232 tehnician agronom - exploatare
+751204 preparator de semifabricate si preparate culinare
+213234 tehnician silvic - exploatare
+751202 cofetar
+751110 operator sortare carcase de pasare
+213238 consultant afaceri în agricultura
+751108 operator prelucrare initiala a pasarilor
+213240 inginer de cercetare în agricultura
+751106 lucrator la prelucrarea pestelui
+213242 inginer de cercetare în pedologie-agrochimie
+751104 sterilizator
+213244 cercetator în pedologie-agrochimie
+751102 ciontolitor transator carne
+213246 inginer de cercetare în horticultura
+742214 electromecanic
+213248 cercetator în agromontanologie
+742212 muncitor radioelectronist
+213250 asistent de cercetare în agromontanologie
+742210 montator, reglor, testor aparatura de telecomunicatii si instalatii de semnalizare, centralizare si blocare
+213252 inginer de cercetare în silvicultura
+742208 jonctor
+213254 cercetator în zootehnie
+742206 electromecanic telegrafie, telefonie
+213256 cercetator în biotehnologie pentru agricultura
+742204 electromecanic retele cabluri
+742202 electromecanic SCB (semnalizare, centralizare, blocare
+213302 inspector de specialitate ecolog
+742106 tehnician pentru sisteme si instalatii de limitare si stingere a incendiilor
+213304 inginer ecolog
+742104 operator în verificarea, întretinerea si repararea instalatiilor speciale de prevenire si stingere a incendiilor
+213306 specialist arii protejate
+742102 electronist depanator utilaje calcul
+213308 consilier ecolog
+741314 electrician operator
+741312 electrician de mina
+214102 inginer textile, pielarie
+741310 electrician pentru protectia catodica
+214104 subinginer textile, pielarie
+741308 electrician montator de instalatii automatizate
+214106 consilier inginer textile, pielarie
+741306 electrician protectie relee, automatizari si masuratori electrice
+214108 inspector specialitate inginer textile, pielarie
+741304 electrician montare si reparatii linii electrice aeriene
+214110 conceptor/ conceptor CAO
+741302 electrician exploatare retele electrice
+214112 specialist documentatie studii
+741216 electromecanic statie pompare apa-canal
+214114 metodist
+741214 confectioner cablaje auto
+214116 manager de cladire
+741212 montator, reglor si depanator de ascensoare
+214118 subinginer industrializarea lemnului
+741210 montator/ reglor/ depanator de aparataj electric
+214120 expert inginer industrializarea lemnului
+741208 electrician verificari si masuratori electrice în centrale si retele electrice
+214122 referent de specialitate inginer industrializarea lemnului
+741206 electrician montare si reparatii aparataj electric de protectie, relee, automatizare
+214124 inginer de cercetare în tehnologia prelucrarii produselor agricole
+741204 bobinator masini electrice rotative
+214126 cercetator în pescuit si acvacultura
+741202 bobinator aparataj electric
+214128 asistent de cercetare în pescuit si acvacultura
+741110 electrician în constructii civile si industriale
+214130 auditor în domeniul calitatii
+741108 electrician constructor instalator aparatura de masura si control
+214132 analist masuratori metrologice
+741106 electrician constructor montator aparataj si cabluri de joasa tensiune
+214134 consultant sistem de calitate
+741104 instalator pentru sisteme termice solare
+214136 programator fabricatie/ lansator fabricatie
+741102 electrician de întretinere în constructii
+214138 auditor energetic pentru cladiri
+732304 strungar slefuitor tipografie
+214140 specialist în managementul riscului
+732302 colator publicitar
+732218 tipograf flexograf
+214202 subinginer constructii civile, industriale si agricole
+732216 operator la masina de gravat si decupat cu laser
+214204 inginer cai ferate, drumuri si poduri
+732214 operator masini multiplicat
+214206 inginer constructor instalatii
+732212 heliografist
+214208 proiectant inginer constructii
+732210 operator la masinile de fotoculegere (monofoto
+214210 expert inginer constructii
+732208 dactilo-rotaprint
+214212 referent de specialitate inginer constructii
+732206 operator presa de transfer termic
+214214 diriginte santier (studii superioare
+732204 taietor matrite serigrafie
+214216 inginer de cercetare în constructii civile, industriale si agricole
+732202 imprimeur textil
+214218 cercetator în constructii de cai ferate, drumuri si poduri
+732116 turnator valuri
+214220 asistent de cercetare în constructii de cai ferate, drumuri si poduri
+732114 gravor placi litografice
+214222 inginer de cercetare în constructii hidrotehnice
+732112 slefuitor-granulator
+214224 inginer de cercetare în ingineria sanitara si protectia mediului
+732110 copist formare tipar plan
+214226 inginer de cercetare în constructii miniere
+732108 corodor prin procedee chimice (tiefdruc si zinco
+214228 cercetator în instalatii
+732106 stereotipar
+214230 asistent de cercetare în instalatii
+732104 culegator manual (zetar
+214232 inginer de cercetare în ingineria materialelor oxidice
+732102 culegator la masina de perforat programe pentru masinile de turnat text (monotastor
+214234 responsabil tehnic cu urmarirea curenta a comportarii constructiilor
+731906 confectioner flori artificiale
+214236 expert în monitorizarea comportarii constructiilor
+731904 confectioner jaluzele
+214238 administrator port
+731902 confectioner proteze dentare
+214302 inginer de cercetare în centrale hidroelectrice în ingineria mediului
+731836 asamblator-montator articole marochinarie
+731834 cusator articole marochinarie
+214402 subinginer mecanic
+731832 finisor manusi piele
+214404 inginer material rulant cale ferata
+731830 cusator manusi piele
+214406 inginer aviatie
+731828 reparator covoare
+214408 inginer masini-unelte
+731826 repasator
+214410 inginer masini termice
+731824 confectioner tricotaje dupa comanda
+214412 inginer autovehicule rutiere
+731822 tesator restaurator manual covoare
+214414 inginer mecanic utilaj tehnologic petrolier
+731820 împletitor textile
+214416 inginer mecanic utilaj tehnologic textil
+731818 ajutor maistru tesator, tricoter
+214418 inginer mecanic utilaj tehnologic pentru prelucrare la cald
+731816 tesator
+214420 subinginer mecanic tehnologia constructiilor de masini
+731814 filator
+214422 subinginer mecanic, mecanica fina
+731812 confectioner îmbracare volane în piele
+214424 subinginer mecanic mecanica agricola
+731810 saluzitor frânghii
+214426 subinginer mecanic utilaje pentru constructii
+731808 polierator frânghii
+214428 subinginer mecanic constructii corp de nava
+731806 confectioner manual de produse din sfori sau frânghii
+214430 subinginer mecanic automobile
+731804 decorator în piele
+214432 subinginer mecanic utilaje pentru materiale de constructie
+731802 confectioner articole hârtie
+214434 expert inginer mecanic
+731732 pieptanator de par la masina
+214436 referent de specialitate inginer mecanic
+731730 prelucrator manual de par
+214438 proiectant inginer mecanic
+731728 sortator, spalator par
+214440 subinginer proiectant mecanic
+731726 împletitor papura
+214442 specialist prestatii vehicule
+731724 împletitor de nuiele
+214444 inginer/ subinginer tehnolog prelucrari mecanice
+731722 confectioner bidinele, pensule, perii
+214446 subinginer tehnolog în fabricarea armamentului si munitiei
+731720 încadrator tablouri
+214448 cercetator în sisteme de propulsie
+731718 confectioner obiecte din os, scoica, mica etc.
+214450 asistent de cercetare în sisteme de propulsie
+731716 confectioner obiecte casnice din deseuri de aluminiu si alte metale
+214452 inginer de cercetare în echipamente si instalatii de bord
+731714 confectioner cutite, brice, bratari, andrele, agrafe, inele
+214454 cercetator în masini si echipamente termice
+731712 rotar caretas
+214456 asistent de cercetare în masini si echipamente termice
+731710 traforator manual lemn
+214458 inginer de cercetare în masini hidraulice si pneumatice
+731708 sculptor în lemn
+214460 cercetator în echipamente de proces
+731706 pirogravor
+214462 asistent de cercetare în echipamente de proces
+731704 confectioner plute
+214464 inginer de cercetare în mecanica fina
+731702 confectioner jucarii
+214466 cercetator în tehnologia constructiilor de masini
+731606 oglindar
+214468 asistent de cercetare în tehnologia constructiilor de masini
+731604 inscriptioner pe produse de sticla si ceramica
+214470 inginer de cercetare în constructii de masini agricole
+731602 gradator vase si aparate de laborator
+214472 cercetator în autovehicule rutiere
+731506 formator tuburi spectrale
+214474 asistent de cercetare în autovehicule rutiere
+731504 prelucrator topitura sticla la presa
+214476 inginer de cercetare în utilaje si instalatii portuare
+731502 modelator tuburi spectrale
+214478 cercetator în utilaje si tehnologia ambalarii
+731410 râsnitor smalt
+214480 asistent de cercetare în utilaje si tehnologia ambalarii
+731408 preparator mase ceramice
+214482 inginer de cercetare în creatia tehnica în constructia de masini
+731406 modelator ceramica
+214484 cercetator în masini si instalatii mecanice
+731404 fasonator produse ceramice
+214486 asistent de cercetare în masini si instalatii mecanice
+731402 debavurator-retusor la produse din ceramica fina
+731310 slefuitor diamante naturale
+214502 subinginer petrochimist
+731308 bijutier metale comune
+214504 consilier inginer chimist
+731306 gravor manual
+214506 inspector de specialitate inginer chimist
+731304 cizelator clisee galvanice
+214508 consilier inginer petrochimist
+731302 bijutier metale pretioase
+214510 inspector de specialitate inginer petrochimist
+731212 lutier
+214512 biochimist
+731210 montator-reglor piane
+214514 inginer în industria alimentara
+731208 filator corzi pentru piane
+214516 proiectant inginer produse alimentare
+731206 constructor-reparator de acordeoane si armonici
+214518 expert inginer industria alimentara
+731204 ceruitor de piastrine pentru acordeoane
+214520 referent de specialitate inginer industria alimentara
+731202 acordor piane, pianine, orga, tambal
+214522 inginer de cercetare în tehnologia substantelor anorganice
+731120 metrolog verificator
+214524 cercetator în tehnologia substantelor organice
+731118 tratamentist piese optice
+214526 asistent de cercetare în tehnologia substantelor organice
+731116 reparator umbrele
+214528 inginer de cercetare în petrochimie si carbochimie
+731114 reparator aparate foto
+214530 cercetator în tehnologia compusilor macromoleculari
+731112 confectioner seringi
+214532 asistent de cercetare în tehnologia compusilor macromoleculari
+731110 optician
+214534 inginer de cercetare în controlul calitatii produselor alimentare
+731108 lipitor lentile si prisme
+214536 subinginer chimist
+731106 centrator, finisor aparate optice
+214602 inginer minier
+731104 ceasornicar
+214604 subinginer minier
+731102 armurier
+214606 consilier inginer metalurg
+723310 mecanic trolist
+214608 inspector de specialitate inginer metalurg
+723308 operator în verificarea, întretinerea si repararea autospecialelor destinate apararii împotriva incendiilor
+214610 consilier inginer minier
+723306 operator în verificarea, reîncarcarea si repararea stingatoarelor de incendiu
+214612 inspector de specialitate inginer minier
+723304 motorist
+214614 inginer prelucrari metalurgice
+723302 mecanic utilaj
+214616 inginer petrolist
+723104 operator standuri încercari
+214618 consilier inginer petrolist
+723102 electromecanic auto
+214620 referent inginer petrolist
+722428 debitator semifabricate
+214622 inginer tehnolog metalurg
+722426 rectificator piese producatoare de ochiuri
+214624 proiectant inginer în minerit
+722424 strungar la masini de prelucrat în coordonate
+214626 cercetator în exploatari miniere
+722422 strungar la masini orizontale
+214628 asistent de cercetare în exploatari miniere
+722420 strungar la strung revolver
+214630 inginer de cercetare în prepararea substantelor minerale utile
+722418 rectificator dantura caneluri
+214632 cercetator în petrol (extractie-prospectiune
+722416 gravor mecanic
+214634 asistent de cercetare în petrol (extractie-prospectiune
+722414 brosator
+214636 inginer de cercetare în topografie miniera
+722412 rectificator universal
+214638 cercetator în ingineria proceselor siderurgice
+722410 honuitor, rodator-lepuitor
+214640 asistent de cercetare în ingineria proceselor siderurgice
+722408 frezor universal
+214642 inginer de cercetare în metalurgia neferoasa
+722406 polizator
+214644 cercetator în turnarea metalelor
+722404 ascutitor scule, instrumente medicale si obiecte de uz casnic
+214646 asistent de cercetare în turnarea metalelor
+722402 ascutitor laminate la rece
+214648 inginer de cercetare în prelucrari plastice si tratamente termice
+722324 operator la masini de electroeroziune automate
+214650 cercetator în stiinta materialelor
+722322 masinist la confectionarea tuburilor de protectie si a dozelor de ramificatie
+214652 asistent de cercetare în stiinta materialelor
+722320 finisator electrozi de sudura
+214654 inginer de cercetare în tehnologii carbochimice
+722318 preparator amestec de învelis
+214656 inginer de cercetare în instalatii si utilaje pentru transportul si depozitarea produselor petroliere
+722316 uscator electrozi de sudura
+722314 masinist la lame de masini pentru automate aschietoare
+214902 subinginer prelucrarea sticlei si ceramicii
+722312 operator la masini-unelte semiautomate si automate
+214904 subinginer materiale de constructii
+722310 reglor si reglor-conductor la masini-unelte
+214906 expert inginer prelucrarea sticlei si ceramicii
+722308 reglor-montator
+214908 referent de specialitate inginer prelucrarea sticlei si ceramicii
+722306 reglor la masini de prelucrare mase plastice
+214910 chimist în materiale oxidice (sticla, ceramica
+722304 masinist la linii automate aschietoare
+214912 proiectant inginer celuloza si hârtie
+722302 reglor la masini pentru confectionarea elementelor galvanice
+214914 expert inginer tehnologia celulozei si hârtiei
+722206 lacatus la prelucrarea si îndreptarea tevilor ghintuite
+214916 referent de specialitate inginer tehnologia celulozei si hârtiei
+722204 lacatus mecanica fina
+214918 asistent de cercetare în informatica
+722202 sculer-matriter
+214920 inginer de cercetare în filatura-tesatorie
+722118 dusisator-polizator
+214922 cercetator în tricotaje-confectii textile
+722116 controlor de calitate la turnare
+214924 asistent de cercetare în tricotaje-confectii textile
+722114 finisor ferite
+214926 inginer de cercetare în tehnologia chimica a produselor textile, pieii, blanurilor si înlocuitorilor
+722112 fierar/ potcovar
+214928 cercetator în confectii din piele si înlocuitori
+722110 preparator pulberi
+214930 asistent de cercetare în confectii din piele si înlocuitori
+722108 forjor mecanic
+214932 inginer de cercetare în exploatari forestiere
+722106 forjor manual
+214934 inginer de cercetare în proiectarea mobilei si produselor finite din lemn
+722104 stantator
+214936 inginer de cercetare în prelucrarea lemnului
+722102 prelucrator mecanic metale pretioase
+214938 cercetator în tehnologie si echipamente neconventionale
+721434 montator fatade si pereti cortina
+214940 asistent de cercetare în tehnologie si echipamente neconventionale
+721432 schelar
+214942 inginer de cercetare în tehnologia celulozei, hârtiei, poligrafiei si fibrelor
+721430 lacatus-depanator utilaje calcul
+214944 corespondent securitate - confidentialitate produs
+214946 expert achizitii publice
+721428 taietor garnituri de carde
+214948 expert monitorizare si control lucrari de montaj
+721426 montator-ajustor spete
+214950 expert urmarire comportare în exploatare lucrari montaj
+721424 lacatus mecanic de întretinere si reparatii universale
+214952 auditor de siguranta rutiera
+721422 masinist la fabricarea acelor si accesoriilor
+721420 masinist la confectionarea tuburilor de aluminiu
+215102 dispecer centrala, hidrocentru, cascada, dispecerate teritoriale
+721418 masinist la litografiat si vernisat tabla
+215104 dispecer retele de înalta tensiune
+721416 repasator garnituri carde
+215106 radiochimist
+721414 sanfrenator
+215108 inginer energetica industriala
+721412 presator metale la rece
+215110 proiectant inginer electrotehnic
+721410 lacatus mecanic
+215112 inginer retele electrice
+721408 lacatus de mina
+215114 inginer hidroenergetica
+721406 formator tevi prin sudare
+215116 subinginer centrale termoelectrice
+721404 confectioner cocleti
+215118 proiectant subinginer electrotehnic
+721402 finisor ace si accesorii
+215120 sef tura dispecer energetic
+721312 tinichigiu în constructii
+215122 inginer de cercetare în electrotehnica
+721310 tinichigiu sisteme de acoperisuri si învelitori
+215124 cercetator în electrofizica
+721308 cazangiu formator
+215126 asistent de cercetare în electrofizica
+721306 tinichigiu structurist de aviatie
+215128 inginer de cercetare în metrologie
+721304 tinichigiu industrial
+215130 cercetator în electromecanica
+721302 probator hidraulic cazane, tevi, recipiente
+215132 asistent de cercetare în electromecanica
+721208 sudor
+215134 inginer de cercetare roboti industriali
+721206 sudor cu arc electric cu electrod fuzibil în mediu de gaz protector
+215136 cercetator în centrale termoelectrice
+721204 sudor cu arc electric acoperit sub strat de flux
+215138 asistent de cercetare în centrale termoelectrice
+721202 sudor manual cu flacara de gaze
+215140 inginer de cercetare în centrale nuclearoelectrice
+721116 modelor prototipuri auto
+215142 cercetator în electroenergetica
+721114 turnator modelier
+215144 asistent de cercetare în electroenergetica
+721112 turnator formator
+215146 inginer de cercetare în energetica industriala
+721110 topitor, turnator metale si aliaje neferoase
+721108 topitor aliaje tipografie
+215202 inginer automatist
+721106 pregatitor metale vechi pentru retopire
+215204 inginer electronist transporturi, telecomunicatii
+721104 modelier naval
+215206 instructor instalatii
+721102 modelier metal
+215208 revizor siguranta circulatiei feroviare
+713302 curatitor de fatade
+215210 subinginer electronist, transporturi, telecomunicatii
+713204 vopsitor
+215212 inginer de receptie si control aeronave
+713202 vopsitor industrial
+215214 proiectant inginer de sisteme si calculatoare
+713104 ignifugator
+215216 inginer electromecanic
+713102 zugrav713103 stucaturist
+215218 capitan secund
+712614 instalator pentru pompe de caldura
+215220 specialist mentenanta electromecanica-automatica echipamente industriale
+712612 instalator retele termice si sanitare
+215222 inginer sisteme de securitate
+712610 instalator autorizat proiectare executie si/ sau exploatare obiectiv/sisteme de transport si înmagazinare-stocare
+215224 inginer de cercetare în electronica aplicata
+712608 instalator centrale termice
+215226 cercetator în comunicatii
+712606 instalator ventilare si conditionare apa
+215228 asistent de cercetare în comunicatii
+712604 instalator încalzire centrala si gaze
+215230 inginer de cercetare în microelectronica
+712602 instalator apa, canal
+215232 cercetator în telecomenzi si electronica în transporturi
+712416 montator sisteme opace de termoizolare pentru cladiri
+215234 asistent de cercetare în telecomenzi si electronica în transporturi
+712414 montator geogrile
+215236 inginer de cercetare în calculatoare
+712412 montator materiale geosintetice
+215238 cercetator în automatica
+712410 montator sisteme tâmplarie termoizolanta
+215240 asistent de cercetare în automatica
+712408 confectioner vitraje izolante
+215302 inginer montaj
+712406 montator pereti si plafoane din ghips-carton
+215304 inginer imagine
+712404 izolator lucrari speciale (antiacide si de protectie
+215306 inginer- sef car reportaj
+712402 izolator frigorific
+215308 inginer-sef schimb emisie
+712302 turnator ornamentalist
+215310 inginer proiectant comunicatii
+712206 linolist
+215312 inginer/ inspector de specialitate/ referent de specialitate/ expert în serviciile de trafic aerian
+712204 parchetar
+215314 inginer iluminare
+712202 montator placaje interioare si exterioare
+215316 coordonator productie RTV
+712102 constructor de acoperisuri
+216102 conductor arhitect
+711926 speolog utilitar
+216104 consilier arhitect
+711924 lucrator pentru drumuri si cai ferate
+216106 inspector de specialitate arhitect
+711922 sef echipa întretinere cale metrou
+216108 proiectant arhitect
+711920 alpinist utilitar
+216110 asistent de cercetare în arhitectura
+711918 sef echipa întretinere cale
+216202 peisagist
+711916 revizor cale sau puncte periculoase
+216302 grafician industrial
+711914 sef echipa întretinere poduri metalice, viaducte si tuneluri
+216304 costumier
+711912 muncitor hidrogeolog
+216306 modelier confectii
+711910 fascinar
+216308 cercetator în arte plastice - design industrial
+711908 constructor linii tramvai
+216310 cercetator în arte plastice - textile (tapiserie, contexturi, moda, imprimeuri
+711906 chesonier
+216312 cercetator în arte plastice-sticla, ceramica, metal
+711904 asfaltator
+711902 pavator
+216402 arhitect urbanism
+711502 dulgher restaurator
+216502 inginer geodez
+711406 injectorist în constructii
+216504 inginer topograf
+711404 constructor structuri monolite
+216506 proiectant inginer geodez
+711402 fierar betonist
+216508 subinginer cadastru
+711304 taietor, slefuitor, lustruitor piatra, marmura
+711302 cioplitor-montator piatra, marmura
+216602 animator film de animatie (studii medii
+711206 zidar restaurator
+216604 stilizator film desene animate (studii medii
+711204 zidar samotor
+216606 asistent regizor emisie
+711202 zidar cosuri fabrica
+711104 laborant pentru constructii de drumuri si constructii civile
+216610 designer pagini web (studii superioare
+711102 confectioner placi din diverse materiale
+216612 grafician calculator (studii medii
+622102 piscicultor
+621014 mangalizator
+221102 medic rezident
+621012 taietor silvic
+221104 expert medic
+621010 sef coloana exploatare stuf
+221106 referent de specialitate medic
+621008 recoltator stuf
+221108 medic medicina de familie
+621006 presator stuf
+221110 asistent de cercetare în medicina generala
+621004 muncitor plantatii si amenajare zona verde
+621002 carbonitor
+613002 fermier în productia animala
+612906 crescator-îngrijitor de cabaline
+223002 asistent de cercetare în medicina traditionala
+612904 crescator de melci
+223004 tehnician homeopat
+612902 crescator-îngrijitor animale salbatice captive
+223006 bioenergetician
+612302 sericicultor
+223008 terapeut în terapii complementare
+612206 crescator de pasari de rasa si pentru decor
+225002 medic veterinar
+612204 crescator de pasari pentru oua de consum
+225004 cercetator în medicina veterinara
+612202 fazanier
+612110 crescator de oi montan
+226102 medic stomatolog rezident
+612108 baci montan
+226104 cercetator în medicina stomatologica
+612106 crescator porcine
+612104 lucrator calificat în cresterea animalelor
+226202 farmacist rezident
+612102 crescator-îngrijitor de animale domestice pentru productia de lapte si carne
+226204 asistent de farmacie licen?iat
+611302 lucrator calificat în irigatii
+226302 specialist în domeniul securitatii si sanatatii în munca
+611208 viticultor
+226304 cercetator stiintific în bacteriologie, microbiochimie, farmacologie
+611206 lucrator calificat în floricultura si arboricultura
+226306 igienist
+611204 floricultor
+226308 coordonator în materie de securitate si sanatate în munca pentru logistica (studii superioare
+611202 ciupercar
+226402 fizioterapeut
+611104 lucrator calificat în culturi de câmp si legumicultura
+226404 asistent de cercetare în fiziokinetoterapie
+611102 gradinar
+226406 profesor de cultura fizica medicala
+541908 salvator din mediul subteran speologic
+226502 dietetician
+541906 gardian feroviar
+226504 consultant nutri?ionist
+541904 salvator montan
+541902 cadru tehnic cu atributii în domeniul prevenirii si stingerii incendiilor
+226604 audiolog
+541414 sef obiectiv servicii de securitate
+541412 agent de securitate conducator câini de serviciu patrulare
+226902 medic expertiza a capacitatii de munca
+541410 inspector de securitate
+226904 bioinginer medical
+541408 dispecer centru de alarma
+226906 fizician medical
+541406 agent de securitate interven?ie
+226908 medic de familie cu competente în sanatatea mintala
+541404 agent garda de corp
+226910 asistent de cercetare în educatie fizica si sport
+541402 agent control acces
+226912 biochimist medical specialist
+541302 educator în penitenciare
+226914 chimist medical specialist
+541106 sef echipa specializata
+226916 biolog medical principal
+541104 servant pompier
+226918 asistent medical nutri?ie dietetica
+541102 sef formatie interventie, salvare si prim ajutor
+226920 asistent medical laborator
+532908 lucrator social
+532906 operator prestatii sociale
+226924 asistent medical balneofizioterapie, balneofiziokinetoterapie ?i recuperare
+532904 asistent personal profesionist
+231002 conferentiar universitar
+532902 mediator social
+231004 preparator învatamântul universitar
+532204 îngrijitor la domiciliu
+231006 expert centre de perfectionare
+532202 îngrijitor bolnavi la domiciliu
+532106 namolar
+233002 profesor în învatamântul gimnazial
+532104 îngrijitoare la unitati de ocrotire sociala si sanitara
+532102 gipsar
+531202 parinte social
+235102 asistent de cercetare în pedagogie
+531102 guvernanta
+235104 expert învatamânt
+524102 model - atelier artistic si publicitate
+235106 referent de specialitate învatamânt
+523004 casier metrou
+235202 interpret în limbaj mimico-gestual (studii superioare
+523002 vânzator de bilete
+235204 instructor-educator în unitati de handicapati
+522304 lucrator produse naturiste
+522302 lucrator controlor final
+235902 mentor
+516912 iluzionist de circ
+235904 designer instructional
+516910 operator pârtie de schi
+235906 laborant în învatamânt
+235912 inspector scolar pentru implementarea descentralizarii institutionale
+516908 animator centre de vacanta
+235914 inspector scolar pentru mentorat
+516906 întretinator textile-piele
+235916 inspector scolar pentru educatie permanenta
+516904 agent ecolog
+235918 inspector scolar pentru învatamântul special
+516902 gazda club
+235920 consilier pentru tineret
+516502 instructor auto
+235922 consilier mediator
+516402 coafor canin
+241102 expert contabil-verificator
+516302 decorator servicii funerare
+241104 referent de specialitate financiar-contabilitate
+516202 însotitor
+241106 controlor de gestiune
+515302 agent curatenie cladiri si mijloace de transport
+515204 lucrator în gospodaria agroturistica
+241202 comisar Garda Financiara
+515202 îngrijitor vila
+241204 expert financiar-bancar
+515108 dispecer pentru servire în camera (hotel
+241206 inspector asigurari
+515106 intendent
+241208 consultant bugetar
+515104 administrator
+241210 evaluator
+515102 guvernanta de hotel/ etaj
+241212 manager de fond actiuni/ obligatiuni
+514208 stilist protezist de unghii
+241214 agent capital de risc
+514206 tatuator
+241216 specialist control risc
+514204 maseur de întretinere si relaxare
+241218 lichidator
+514202 manichiurist
+241220 analist pret de revenire/ costuri
+514102 frizer
+241222 consultant fiscal
+513202 barman preparator
+241224 economist banca
+513102 ospatar (chelner
+241226 manager de operatiuni/ produs
+512004 maestru în arta culinara
+241228 trezorier (studii superioare
+512002 pizzar
+241230 ofiter bancar (credite, marketing, produse si servicii bancare
+511320 ghid canioning
+241232 operator cifru (mesaje cifrate
+511318 înso?itor speolog
+241234 consultant bancar
+511316 custode pentru arii protejate
+241236 referent bancar/ societate de leasing
+511314 organizator activitate turism (studii medii
+241238 expert conformitate
+511312 ghid obiectiv cultural
+241240 administrator de risc
+511310 ghid de turism sportiv (alpinism si catarari pe stânci/ schi/ bob/ înot/
+241242 inspector de specialitate asigurari
+511308 ghid turism speologic
+241244 referent de specialitate asigurari
+511306 ghid habitat natural flora, fauna
+241246 inspector coordonator asigurari
+511304 ghid de turism montan, drumetie montana
+241248 inspector de specialitate daune
+511302 ghid de turism intern (local
+241250 specialist sistem asigurari
+511206 sef tura comanda vagon de dormit – cuseta
+241252 expert evaluator de proprietati imobiliare
+511204 conductor vagon de dormit si cuseta
+241254 expert evaluator de active financiare
+511202 revizor bilete
+241256 expert în ingineria costurilor investitionale
+511102 stewardesa
+241258 expert receptie investitii industriale
+441902 expert local pe problemele romilor
+241260 expert evaluare-actualizare devize generale investitii
+441502 functionar documentare
+241262 expert în management activitati investitionale
+441302 corector editura presa
+241264 inspector casier
+441212 sef vagon postal
+241266 gemolog
+441210 prelucrator presa scrisa
+241268 specialist piete reglementate
+441208 oficiant posta telegrame
+241270 specialist control intern în domeniul pietei de capital
+441206 factor postal
+441204 cartator telegrame
+241302 asistent de cercetare în finante-banci
+441202 cartator postal
+241304 asistent de cercetare în gestiune, contabilitate, control financiar
+441106 mânuitor carte
+241306 auditor intern în sectorul public
+441104 fonotecar
+241308 specialist bancar
+441102 discotecar
+241310 asistent bancar
+432344 revizor tehnic auto
+432342 agent feroviar marfa
+242102 specialist îmbunatatire procese
+432340 grafician mers de tren
+242104 responsabil proces
+432338 operator portuar expeditor
+242106 manager de inovare
+432336 operator miscare metrou
+242108 manager îmbunatatire procese
+432334 agent statie metrou
+242110 specialist în planificarea, controlul si raportarea performantei economice
+432332 operator receptie
+242112 manager de proiect în parteneriat public privat
+432330 verificator documente expeditie
+432328 sef tura revizie vagoane
+432326 sef tura la comanda personalului de tren
+432324 sef halta
+242202 expert administratia publica
+432322 sef autogara
+242204 referent de specialitate în administratia publica
+432320 scriitor vagoane
+242206 reglementator
+432318 reditionar
+242208 administrator public
+432316 operator programare
+242210 examinator de stat de specialitate
+432314 operator comercial
+242212 agent consular
+432312 instructor statie
+242214 consilier afaceri europene
+432310 instructor depou
+242216 inspector de trafic rutier (studii superioare
+432308 inspector RNR (Registrul Naval Român
+242218 administrator editura
+432306 impiegat registru miscare
+242220 expert legislatia muncii
+432304 impiegat auto
+242222 analist informatii de firma
+432302 functionar informatii
+242224 analist de informatii
+432204 programator productie
+242226 inspector de stare civila
+432202 facturist
+242228 auditor de securitate a aviaíei civile
+432112 sef raion/ adjunct marfuri alimentare/ nealimentare
+242230 expert în egalitate de ?anse
+432110 primitor-distribuitor benzina si motorina
+242302 expert forta de munca si somaj
+432106 sortator produse
+242304 expert în securitate si sanatate în munca
+432104 primitor-distribuitor materiale si scule
+242306 consilier orientare privind cariera
+432102 magaziner
+242308 analist piata muncii
+431202 contabil financiar bancar
+242310 analist sisteme salarizare
+431104 sef sectie inventar
+242312 consultant conditii de munca
+431102 functionar economic
+242314 specialist resurse umane
+422502 functionar informatii clienti
+242316 consultant în standardizare
+422404 tehnician compartiment securitate hotel
+242318 consultant intern în resurse umane
+422402 lucrator concierge
+242320 specialist în recrutare
+422306 telegrafist (teleimprimatorist
+242322 specialist în dezvoltare organizationala
+422304 telefonist
+242324 consilier pentru dezvoltare personala
+422302 oficiant telegraf
+242402 formator de formatori
+422110 functionar agentie voiaj
+242404 inspector de specialitate formare, evaluare si selectie profesionala
+422108 agent transporturi externe
+242406 manager de formare
+422106 agent de asistenta turistica
+242408 evaluator de furnizori si programe de formare
+422104 agent de transport turistic intern
+242410 evaluator extern
+422102 agent de turism
+242412 specialist în activitatea de coaching
+421402 colector (recuperator creante/debite
+242902 responsabil al managementului responsabilitatii sociale
+421204 sef de masa (cazino
+242904 specialist educator în penitenciare
+421202 schimbator fise - changeur (cazino
+243102 organizator activitate turism (studii superioare
+421114 referent casier
+243104 manager de produs
+421112 administrator cont
+243202 mediator
+421110 operator ghiseu banca
+243204 specialist protocol si ceremonial
+421108 sef casierie centrala
+243206 purtator de cuvânt
+421106 verificator valori
+243208 organizator protocol
+421104 numarator bani
+243210 organizator târguri si expozitii
+421102 casier valuta
+243212 specialist relatii sociale
+413206 operator masina de calculat
+243214 curier diplomatic
+413204 registrator de arhiva electronica de garantii reale mobiliare
+243216 analist servicii client
+413202 operator tehnica poligraf
+243218 corespondent comercial
+413106 telexist
+243220 specialist în activitatea de lobby
+413104 telefaxist
+413102 stenodactilografa
+243302 reprezentant medical
+412002 secretara dactilografa
+411002 inspector documente secrete
+251202 programator
+352214 tehnician transporturi, posta si telecomunicatii
+251204 programator de sistem informatic
+352212 radioelectronist statii radiorelee si satelit
+251206 manager proiect informatic
+352210 tehnician retele de telecomunicatii
+251302 specialist în e-Guvernare
+352208 maistru materiale emisie RTV si telecomunicatii
+251304 specialist în e-Sanatate
+352206 tehnician statii de emisie radio-TV
+251402 specialist în proceduri si instrumente de securitate a sistemelor informatice
+352204 tehnician turn parasutism
+352202 tehnician constructii telefonice
+352134 tehnician la echipamente de înregistrare imagine si sunet
+352132 tehnician de echipamente TV
+252302 administrator de retea de telefonie VOIP
+352130 tehnician pentru sisteme de detectie, supraveghere video, control acces
+352128 tehnician CATV
+261102 jurisconsult
+352126 operator sunet
+352124 operator imagine
+261202 judecator
+352122 controlor emisii RTV
+261204 inspector judiciar
+352120 tehnician iluminat tehnologic
+261206 personal de specialitate juridica asimilat judecatorilor si procurorilor
+352118 operator truka
+261902 expert criminalist
+352116 senzitometrist
+261906 notar
+261910 consilier armonizare legislativa
+352114 preparator filmare
+261912 analist armonizare legislativa
+352112 operator emisie-receptie
+261914 revizor jurist
+352110 montor pozitive
+261916 asistent de cercetare în domeniul stiintelor juridice
+352108 montor imagine
+261918 consilier proprietate industriala autorizat
+352106 masinist mecanic traweling
+261920 expert prevenire si combatere a coruptiei
+352104 etaloner
+261922 inspector de probatiune
+352102 controlor si reconditioner filme
+351202 analist ajutor
+262102 conservator opere de arta si monumente istorice (studii superioare
+351106 operator prompter
+262104 restaurator opere de arta si monumente istorice (studii superioare
+351104 operator în domeniul proiectarii asistate pe calculator
+262106 restaurator arhiva (studii superioare
+351102 sef tura exploatare în centre sau oficii de calcul
+262108 conservator/ restaurator pictura murala
+343522 secretar artistic
+262110 conservator/ restaurator componente artistice din lemn la monumente istorice
+343520 corector (studii medii
+262112 conservator/ restaurator componente artistice din piatra, ceramica sau stucatura la monumente istorice
+343518 videojurnalist (studii medii
+343516 documentarist (studii medii
+262202 bibliotecar (studii superioare
+343514 secretar de emisie (studii medii
+262204 referent difuzare carte
+343512 machior spectacole
+262206 bibliotecar arhivist
+343510 asistent regizor artistic
+343508 secretar de redactie (studii medii
+263102 consilier/ expert/ inspector/ referent/ economist în economie generala
+343506 caricaturist (studii medii
+263104 consilier/ expert/ inspector/ referent/ economist în comert si marketing
+343504 maestru de lumini
+263106 consilier/ expert/ inspector/ referent/ economist în gestiunea economica
+343502 tehnician machetist
+263108 tehnician economist
+343404 cofetar - sef
+263110 inspector de concurenta
+343402 barman - sef
+263112 cercetator economist în management
+343306 conservator arhiva (studii medii
+263114 cercetator economist în economia mediului
+343304 conservator bunuri culturale (studii medii
+263116 cercetator economist în economia generala
+343302 conservator opere de arta si monumente istorice (studii medii
+263118 cercetator economist în economie agroalimentara
+343204 decorator vitrine
+263120 cercetator economist în marketing
+343202 decorator interioare
+263122 cercetator economist în relatii economice internationale
+343104 operator prelucrare pelicula
+263124 cercetator economist în gestiunea economica
+343102 laborant foto
+263126 secretar economic (studii superioare
+342308 instructor canioning
+263202 geograf
+342306 instructor salvaspeo
+263204 analist în turism
+342304 instructor de aerobic-fitness
+263206 arheolog
+342302 instructor de fitness
+263208 cercetator în sociologie
+342220 antrenor na?ional
+263210 cercetator în antropologie
+342218 ofiter de control doping (studii medii
+263212 cercetator în geografie
+342216 arbitru de fotbal
+263214 cercetator în arheologie
+342214 monitor de schi, snow-board si sporturi de alunecare pe zapada
+263216 cercetator în etnologie
+342212 instructor în poligonul de tir
+263218 manager consor?iu turistic
+342210 impresar sportiv
+263220 promotor local
+342208 arbitru judecator sportiv
+263302 istoric
+342206 instructor (monitor schi/ calarie/ golf/ tenis/ înot/ sporturi extreme
+263304 politolog
+342204 antrenor de fotbal profesionist
+263306 asistent de cercetare în filozofie
+342202 instructor sportiv
+263308 asistent de cercetare în istorie
+342104 sportiv de înalta performan?a
+263310 asistent de cercetare în stiintele politice
+342102 sportiv profesionist în alte discipline sportive
+263402 psiholog în specialitatea consiliere psihologica
+341904 sef atelier scoala
+263404 psiholog în specialitatea psihologia muncii si organizationala
+341902 pedagog scolar
+263406 psiholog în specialitatea psihologia aplicata în servicii
+341502 educator puericultor
+263408 psiholog în specialitatea psihopedagogie speciala
+341402 institutor
+263410 psiholog în specialitatea psihologie judiciara - evaluarea comportamentului simulat prin tehnica poligrafului
+263412 psihopedagog
+341302 calugarita
+263414 psiholog scolar
+341206 specialist în economia sociala
+263416 asistent de cercetare în psihologie
+341204 facilitator de dezvoltare comunitara
+263418 asistent de cercetare în psihopedagogie speciala
+341202 pedagog social
+341116 ofiter antifrauda financiar-bancara (studii medii
+263502 consilier în domeniul adictiilor
+341114 grefier arhivar
+263504 art-terapeut
+341112 secretar dactilograf laborator expertize criminalistice
+263506 specialist în evaluarea vocationala a persoanelor cu dizabilitati
+341110 grefier statistician
+263508 instructor - educator pentru activitati de resocializare
+341108 arhivar notariat
+263510 cercetator în asistenta sociala
+341106 functionar în activitati comerciale, administrative si preturi
+263512 inspector social
+341104 secretar notariat
+263602 arhiereu-vicar
+335904 comisar
+263604 cantor
+335902 inspector preturi
+263606 cardinal
+335504 detectiv particular
+263608 cântaret bisericesc
+335502 detectiv
+263610 conducator arhiepiscopal
+335406 expert
+263612 episcop
+335404 inspector de stat
+263614 haham
+335402 referent pensii, asigurari sociale si asistenta sociala
+263616 hatip
+335202 operator rol
+263618 inspector culte
+335106 controlor vamal, controlor pentru datoria vamala, agent vamal (studii superioare
+263620 melamed
+335104 referent vamal (studii medii
+263622 muezin
+335102 revizor vamal
+263624 organist
+334402 registrator medical în anatomie patologica
+263626 patriarh
+334304 asistent de cabinet
+263628 presedinte culte
+334302 secretar asistent director
+263630 provicar
+333912 operator vânzari prin telefon
+263632 secretar culte
+333910 operator de interviu
+263634 treibar
+333908 impresar artistic
+263636 vicar
+333906 asistent relatii publice si comunicare (studii medii
+264102 scriitor
+333904 impresar teatru
+264202 corector (studii superioare
+333902 agent literar
+264204 corespondent radio
+333310 tehnician calificare gestiune competente
+264206 critic de arta
+333308 tehnician reconversie personal
+264208 fotoreporter
+333306 analist resurse umane
+264210 publicist comentator
+333304 inspector/ referent resurse umane
+264212 reporter (studii superioare
+333302 agent orientare profesionala a somerilor/ agent informare privind cariera
+264214 secretar de emisie (studii superioare
+333106 agent tranzit
+264216 secretar responsabil de agentie
+333104 agent cumparari
+264218 tehnoredactor
+333102 receptioner contractari-achizitii
+264220 critic literar
+332402 mercantizor
+264222 comentator radio TV
+332204 consilier vânzari bijuterii si ceasuri
+264224 jurnalist TV (studii medii
+332202 reprezentant comercial
+264226 jurnalist TV senior
+332102 broker în asigurari
+264302 interpret
+331404 actuar
+264304 referent literar
+331402 statistician
+264306 traducator (studii superioare
+331308 merceolog
+264308 grafolog
+331306 contabil bugetar
+264310 terminolog
+331304 planificator
+264312 cercetator în lingvistica
+331302 contabil
+264314 cercetator în filologie
+331202 ofiter operatiuni financiar-bancare
+331108 agent pentru servicii de investitii financiare
+265102 artist plastic
+331106 teleoperator financiar-bancar
+265104 grafician
+331104 broker bursa de marfuri
+265106 pictor
+331102 agent de schimb
+265108 sculptor
+325910 asistent medical radiologie
+265110 restaurator tablouri
+325908 asistent medico-social
+265202 artist liric
+325906 asistent medical obstretica-ginecologie
+265204 corepetitor
+325904 asistent medical laborator
+265206 dirijor
+325902 asistent medical nutri?ie dietetica
+265208 maestru studii canto
+325802 ambulantier
+265210 maestru cor
+325728 manager dezvoltare durabila pentru mobila sau componente
+265212 secretar muzical
+325726 coordonator în materie de securitate si sanatate în munca pentru logistica (studii medii
+265214 solist instrumentist
+325724 coordonator în materie de securitate si sanatate în munca (studii medii
+265216 sufleur opera
+325722 tehnician conditii de munca si securitate
+265218 specialist instrumente de suflat
+325720 inspector protectie sociala
+265220 solist concertist
+325714 auditor în domeniul sigurantei alimentare
+265222 maestru corepetitor
+325712 inspector protectia mediului
+265224 corist opera
+325710 responsabil de mediu
+265226 maestru lutier
+325708 manager al sistemului de management al riscului
+265228 regizor muzical
+325706 inspector pentru conformare ecologica
+265230 instrumentist muzicant
+325704 expert/ specialist standardizare
+265232 video-jockey
+325702 manager al sistemelor de management de mediu
+265234 instrumentist (studii medii
+325602 tehnician sanitar
+265302 coregraf
+325504 reflexoterapeut
+265304 maestru de balet
+325502 asistent medical fizioterapie
+265306 maestru dans
+325402 optometrist (studii medii
+265308 instructor de dans
+325102 asistent de profilaxie stomatologica
+265402 corector transmisie
+324004 tehnician veterinar
+265404 instructor retea cinematografica
+324002 asistent veterinar
+265406 intermediarist film de desene animate (studii superioare
+322102 sora medicala
+265408 producator delegat film
+321502 evaluator asigurari
+265410 regizor artistic
+321402 tehnician acustician - audioprotezist
+265412 regizor studio
+321302 laborant farmacie
+265414 regizor tehnic
+321102 tehnician aparate electromedicale
+265416 sufleur teatru
+315516 tehnician în serviciile de trafic aerian
+265418 producator RTV (stiri
+315514 maistru protectia navigatiei aeriene (comunicatii, navigatie, supraveghere
+265420 director imagine
+315512 operator dispecerat operational de supraveghere în serviciile de trafic aerian
+265422 copywriter publicitate (studii superioare
+315510 dispecer operatiuni de zbor
+265424 producator delegat evenimente de marketing
+315508 inspector siguranta operationala
+265426 animator film de animatie (studii superioare
+315506 tehnician securitate aeriana
+265428 coordonator productie film
+315504 operator radionavigant aviatie
+265430 producator audiovideo
+315502 masinist agregate aerodrom
+265432 director de creatie
+315420 navigator instructor informare
+265434 scenograf
+315418 sef tura telecomunicatii aeronautice aviatie civila
+265436 videojurnalist (studii superioare
+315416 navigator informare
+265438 regizor culise
+315414 controlor trafic aerian dirijare radar
+265440 secretar platou
+315412 operator radiotelecomunicatii aeronautice
+265442 producator TV
+315410 navigator sol
+265444 producator teren (studii medii
+315408 navigator dirijare zbor
+315406 navigator aviatia civila
+265502 actor mânuitor de papusi
+315404 dispecer sol
+315402 controlor sol
+265602 prezentator (crainic televiziune
+315316 maistru aviatie
+265902 clovn
+315314 instructor parasutism
+265904 hipnotizator
+315312 pilot parasutism încercator
+265906 cascador
+315310 parasutist receptie si control
+265908 dresor
+315308 pilot încercare
+311102 tehnician chimist
+315306 pilot aeronave
+311104 tehnician determinari fizico-mecanice
+315304 inspector pilotaj
+311106 laborant tehnica nucleara
+315302 comandant însotitor de bord
+311108 tehnician geolog
+315212 ofiter de punte maritim aspirant/ ofiter mecanic maritim aspirant/ ofiter electrician maritim aspirant
+311110 prospector - prospectii geologice, geofizice
+315210 pilot de port maritim aspirant/ pilot de Dunare aspirant
+311112 tehnician hidrogeolog
+315208 pilot de mare larga, pilot de port maritim
+311114 metrolog
+315206 pilot de Dunare maritima
+311116 asistent fizica si chimie
+315204 ofiter port
+311118 meteorolog aeronautic tehnician
+315202 capitan port
+311120 tehnician în fizica
+315106 ofiter mecanic maritim
+311202 maistru normator
+315102 ofiter RTG
+311204 tehnician hidroamelioratii
+314488 inspector suprastructuri mobile marfuri periculoase
+311206 tehnician topometrist
+314310 brigadier silvic
+311208 maistru instalator în constructii
+314308 tehnician proiectant în reconstructia ecologica
+311210 diriginte santier
+314306 tehnician cadastru forestier
+311212 tehnician în industria materialelor de constructii
+314304 tehnician silvic-cercetare
+311214 tehnician proiectant în industria materialelor de constructii
+314302 tehnician proiectant în industrializarea lemnului
+311216 tehnician devizier
+314204 operator însamântari artificiale la animale
+314202 tehnician zootehnist - cercetare
+311302 maistru electromecanic
+314106 tehnician în protectia mediului (tehnician ecolog
+311304 tehnician electroenergetician, termoenergetician
+314104 tehnician în serologie
+311306 tehnician energetician/ electrician
+314102 tehnician în biochimie
+311308 maistru electrician în constructii
+313908 operator echipamente de termografie
+311310 sef/ sef adjunct tura statie electrica (studii medii
+313906 tehnician analist calitate
+311402 tehnician electronica
+313904 controlor de conformitate în industria de masini
+313902 tehnician-operator la roboti industriali
+311502 maistru instalatii navale
+313404 operator instalatii îmbuteliere gaz petrol lichefiat
+311504 maistru lacatus, constructii metalice
+313402 rafinor
+311506 tehnician proiectant mecanic
+313206 operator masini refrigeratoare (conservare prin frig
+311508 maistru mecanic
+313204 masinist la conditionarea aerului
+311510 maistru mecanica agricola
+313202 operator hidraulic în alimentarile cu apa
+311512 maistru montaj
+313112 operator curatare chimica la schimbatoarele de caldura cu placi
+311514 maistru sculer – matriter
+313110 operator centrala termica
+311516 tehnician constructii navale
+313108 masinist la centrale diesel
+311518 tehnician masini si utilaje
+313106 masinist la instalatiile hidrotehnice din centrale electrice
+311520 tehnician prelucrari mecanice
+313104 operator la instalatiile de turbine cu abur sau gaze
+311522 tehnician tehnolog mecanic
+313102 masinist la instalatiile din centrale electrice
+311524 tehnician mentenanta mecanica echipamente industriale
+312202 controlor calitate pentru executia elementelor la armament si munitie
+311526 tehnician documentatie studii
+312102 controlor de productie la minele de aur nativ
+311528 tehnician reglementari/ omologari oficiale
+311942 laborant pentru fabrica de ciment
+311530 tehnician/ tehnician responsabil afacere, metode gestiune mijloace si utilaje
+311940 operator control nedistructiv pentru verificarea etanseitatii
+311532 tehnician/ tehnician responsabil afacere, metode logistica
+311938 operator control nedistructiv cu particule magnetice
+311534 maistru fabricarea armamentului
+311936 operator control nedistructiv cu ultrasunete
+311536 inspector ISCIR
+311934 operator control nedistructiv
+311602 laborant apa si apa grea
+311932 maistru în industria alimentara
+311604 laborant petrolist/ industria chimica
+311930 tehnician în morarit si panificatie
+311606 laborant apa potabila
+311928 tehnician în industria alimentara fermentativa
+311608 laborant petrochimist
+311926 tehnician laborant analize produse alimentare
+311924 tehnician frigotehnist
+311702 maistru metalurgie
+311922 maistru în industria sticlei si ceramicii
+311704 maistru presator metale
+311920 tehnician platou
+311706 tehnician metalurgie
+311918 laborant în industriile textila, pielarie
+311708 tehnician proiectant minier
+311916 tehnician în industria textila
+311710 tehnician mineralurg
+311914 tehnician în industria încaltamintei
+311712 maistru termist - tratamentist
+311912 tehnician în industria confectiilor din piele si înlocuitori
+311910 tehnician gestiune stoc
+311802 trasator
+311908 tehnician gestiune salariala
+311804 topograf
+311906 tehnician programare, lansare, urmarirea productiei
+311806 trasator optic
+311904 tehnician normare, salarizare, organizare
+311808 tehnician cadastru
+311902 maistru tipograf
+311901 maistru în industria celulozei si hârtiei
+311903 paginator tipograf
+311807 tehnician proiectant
+311905 tehnician pret de cost
+311805 trasator naval - desenator
+311907 tehnician pret de revenire/ costuri
+311803 desenator
+311909 tehnician gestiunea productiei
+311801 desenator tehnic
+311911 maistru în industriile textila, pielarie
+311713 probator hidraulic piese turnate
+311913 tehnician în industria confectiilor si tricotajelor
+311711 maistru mineralurg
+311915 tehnician în industria pielariei
+311709 tehnician proiectant metalurg
+311917 tehnician proiectant textile, pielarie
+311707 tehnician minier
+311919 sef formatie industria confectiilor îmbracaminte
+311705 maistru termotehnist
+311921 tehnician în industria sticlei si ceramicii
+311703 maistru minier
+311923 maistru frigotehnist
+311701 laborant structura macroscopica si microscopica
+311925 tehnician în industria alimentara
+311609 maistru la fabricarea munitiei
+311927 tehnician în industria alimentara extractiva
+311607 tehnician petrolist chimie industriala
+311929 tehnician în industria carnii, laptelui si conservelor
+311605 maistru petrolist/ industria chimica
+311931 tehnician proiectant în industria alimentara
+311603 laborant control dozimetrie
+311933 tehnolog alimentatie publica
+311601 decontaminator
+311935 operator control nedistructiv cu radiatii penetrante
+311535 inspector cu supravegherea si verificarea tehnica a instalatiilor
+311937 operator control nedistructiv cu lichide penetrante
+311533 tehnician/ tehnician responsabil afacere, metode organizarea si masurarea muncii
+311939 operator control nedistructiv cu curenti turbionari
+311531 tehnician/ tehnician responsabil afacere, metode pregatire de industrializare
+311941 operator responsabil cu supravegherea tehnica a instalatiilor
+311529 tehnician/ tehnician responsabil afacere, metode implantare
+311943 operator control nedistructiv pentru examinare vizuala
+312101 masurator de gaze, temperatura si radiatii
+311527 tehnician prestatii vehicule
+312103 salvator minier
+312201 controlor calitate dupa efectuarea probelor la armament si munitie
+311525 tehnician încercari componente vehicule/ grup motopropulsor/ optimizare energetica/ sisteme de masurare
+312203 controlor de calitate la protejari metalice
+313101 operator la instalatiile din centrale electrice
+311523 maistru mecanic masini si utilaje pentru constructii
+313103 operator la instalatiile de cazane din centrale electrice
+311521 tehnician sudura
+313105 operator la camera de comanda termica
+311519 tehnician mecanic
+313107 masinist la instalatiile de turbine hidraulice
+311517 tehnician instalatii de bord (avion
+313109 operator punct termic
+311515 maistru sudura
+313111 automatist pentru supraveghere si întretinere cazane
+311513 maistru prelucrari mecanice
+313113 operator surse regenerabile de energie
+313201 operator la instalatii de incinerare
+311511 maistru mecanica fina
+313203 operator circuite retea apa
+311509 maistru mecanic auto
+313205 operator la tratarea apei tehnologice
+311507 mecanic pentru întretinerea aparatelor de lansare la zbor
+313401 operator chimist la chimizarea metanului
+311505 maistru lacatus mecanic
+313403 distilator la prelucrarea titeiului
+311503 maistru întretinere si reparatii masini - unelte, utilitati, service, prototipuri
+313901 maistru-operator la roboti industriali
+311501 maistru cazangerie
+313903 tehnician în industria celulozei si hârtiei
+311403 tehnician proiectant electronica
+313905 tehnician asigurarea calitatii
+311401 maistru electronica
+313907 tehnician cotator calitate
+311309 tehnician mentenanta electromecanica - automatica echipamente industriale
+314101 tehnician în bacteriologie
+311307 tehnician proiectant energetician/ electrician
+314103 tehnician în hematologie
+311305 tehnician electromecanic
+314105 tehnician în biologie
+311303 maistru energetician/ electrician
+314107 evaluator si auditor de mediu
+314201 tehnician agronom - cercetare
+311301 dispecer gestiune uraniu
+314203 tehnician pedolog
+311217 tehnician atasamentist
+314205 operator în ferme ecologice mixte
+314301 tehnician în industrializarea lemnului
+311215 tehnician devize si masuratori în constructii
+314303 maistru în industrializarea lemnului
+311213 maistru în industria materialelor de constructii
+314305 tehnician în reconstructia ecologica
+311211 tehnician laborant pentru lucrari de drumuri si poduri
+314307 tehnician amenajist
+311209 tehnician instalatii în constructii
+314309 maistru silvic
+311207 tehnician proiectant în constructii
+314311 padurar
+311205 tehnician hidrotehnic
+315101 ofiter ajutor fluvial/ portuar
+311203 tehnician constructor
+315103 ofiter electrician fluvial/ portuar
+315105 ofiter electrician maritim
+311201 maistru constructii civile, industriale si agricole
+315107 ajutor ofiter mecanic fluvial
+315201 capitan fluvial
+311119 operator specialist curatare chimica la schimbatoarele de caldura cu placi
+315203 ofiter intendent
+311117 operator meteorolog
+315205 ofiter de punte fluvial/ portuar
+311115 tehnician metrolog
+315207 sef echipaj maritim/ fluvial
+311113 laborant operator centrale termice
+315209 dragor maritim/ fluvial
+311111 tehnician hidrolog
+315211 ofiter de punte maritim
+311109 tehnician hidrometru
+315301 comandant detasament zbor
+311107 tehnician meteorolog
+315303 copilot
+311105 laborant determinari geologice si geotehnice
+315305 mecanic navigant aviatie
+311103 laborant determinari fizico-mecanice
+315307 pilot comandant avion
+311101 laborant chimist
+315309 pilot receptie si control aeronave
+265907 figurant
+315311 parasutist încercator
+265905 trapezist
+315313 pilot instructor aeronave
+265903 magician
+315315 mecanic navigant instructor
+265901 acrobat
+315317 tehnician aviatie
+315401 controlor dirijare nonradar
+265601 prezentator (crainic radio
+315403 controlor trafic aviatia civila
+265503 artist circ
+315405 navigator dirijare radar
+265501 actor
+315407 navigator dirijare nonradar
+265445 maestru magician
+315409 navigator instructor dirijare radar si nonradar
+265443 producator teren (studii superioare
+315411 operator radar
+265441 producator delegat TV
+315413 controlor trafic aerian dirijare nonradar
+265439 regizor scena
+315415 controlor trafic aerian informare
+265437 producator delegat pentru teatru
+315417 operator/ specialist/ instructor telecomunicatii aeronautice aviatie civila
+265435 asistent scenograf
+315419 controlor trafic aerian (simulator trafic aerian
+265433 organizator productie (studii superioare
+315501 agent salvare aeroportuara si instalatii de stins incendii
+265431 editor coordonator programe TV
+315503 operator instalatii control antiterorist/ antideturnare
+265429 asistent productie film
+315505 operator radionavigant instructor aviatie
+265427 director productie film
+315507 operator de handling
+265425 redactor prezentator de televiziune
+315509 agent de securitate aeroportuara
+265423 mediaplanner
+315511 referent/ inspector în serviciile de trafic aerian
+265421 referent de specialitate selectie programe TV
+315513 tehnician protectia navigatiei aeriene (comunicatii, navigatie, supraveghere
+265419 editor RTV (stiri
+315515 sef tura protectia navigatiei aeriene (comunicatii, navigatie, supraveghere
+265417 maestru artist circ
+315517 operator de handling combustibil
+321101 maistru aparate electromedicale
+265415 secretar sef productie film
+321201 autopsier
+321301 asistent farmacist
+265413 regizor sunet
+321303 asistent medical de farmacie
+321401 tehnician protezist - ortezist
+265411 regizor emisie
+321403 tehnician evaluare, recomandare, furnizare si adaptare fotolii rulante
+265409 realizator emisiuni RTV
+322101 laborant în ocrotirea sanatatii
+265407 stilizator film de desene animate (studii superioare
+322201 asistenta puericultoare
+324001 agent veterinar
+265405 lector scenarii
+324003 autopsier la ecarisaj
+265403 instructor film
+325101 tehnician dentar
+265401 consultant artistic
+325103 asistent de medicina dentara
+325301 asistent medical comunitar
+325401 optician medical
+265307 dansator
+325501 maseur
+265305 solist balet
+325503 ergoterapeut
+265303 maestru studii de balet
+325601 oficiant medical
+265301 balerin
+325603 asistent medical consiliere HIV/ SIDA
+325701 manager al sistemelor de management al calitatii
+265233 maestru de ceremonii
+325703 auditor de mediu
+265231 disc-jockey
+325705 monitor mediul înconjurator
+265229 cântaret
+325707 asistent standardizare
+265227 specialist orga
+325709 manager al sistemului de management securitate si sanatate în munca
+265225 maestru acordor pian clavecin
+325711 auditor de sistem de management pentru sanatate si securitate ocupationala
+265223 artist liric opera
+325713 specialist în managementul deseurilor
+265221 dirijor cor
+325715 manager în domeniul sigurantei alimentare
+325719 inspector sanitar
+265219 artist instrumentist
+325721 tehnician în securitate si sanatate în munca
+265217 copiator note muzicale
+325723 inspector în domeniul securitatii si sanatatii în munca
+265215 solist vocal
+265213 sef orchestra
+325727 specialist securitate si sanatate în munca în domeniul servicii de întretinere si reparatii autovehicule 
+265211 referent muzical
+325801 brancardier
+265209 instrumentist
+325901 asistent medical generalist
+265207 ilustrator muzical
+325903 paramedic
+265205 corist
+325905 asistent medical de pediatrie
+265203 concert maestru
+325907 asistent medical igiena ?i sanatate publica
+265201 acompaniator
+325909 asistent medical balneofizioterapie, balneofiziokinetoterapie ?i recuperare
+265109 sculptor papusi
+331101 cambist (broker valori
+265107 pictor scenograf
+331103 intermediar în activitatea financiara si comerciala (broker
+265105 machetist
+331105 agent de vânzari directe (produse financiar-bancare
+265103 desenator film animatie
+331107 agent marketing pensii private
+265101 caricaturist (studii superioare
+331201 analist tehnic piete financiare
+264315 asistent de cercetare în filologie
+331301 calculator devize
+264313 asistent de cercetare în lingvistica
+331303 tehnician merceolog
+264311 translator emisie
+331305 revizor gestiune
+264309 revizor lingvist
+331307 secretar economic (studii medii
+264307 translator
+331309 referent
+331401 referent statistician
+264305 secretar literar
+331403 statistician medical
+264303 interpret relatii diplomatice
+331405 tehnician planificare/ urmarire sinteze
+331501 estimator licitatii
+331503 evaluator tehnic daune auto
+332101 agent de asigurare
+264301 filolog
+332201 reprezentant tehnic
+264225 jurnalist TV (studii superioare
+332203 agent de vânzari
+264223 redactor rubrica
+332301 specialist în achizitii
+332401 agent comercial
+264221 critic muzical
+332403 agent vânzari standarde si produse conexe
+333101 agent contractari si achizitii (broker marfuri
+264219 ziarist
+333103 administrator cumparari
+264217 sef agentie publicitate
+333105 declarant vamal
+264215 secretar de redactie (studii superioare
+333107 agent maritim
+333301 agent repartizare a fortei de munca
+264213 reporter operator
+333303 agent evidenta si plata a ajutorului de somaj
+264211 redactor
+333305 agent ocupare
+264209 lector presa/ editura
+333307 tehnician mobilitate personal
+264207 editorialist
+333309 instructor/ preparator formare
+264205 corespondent presa
+333311 tehnician resurse umane
+333401 agent imobiliar (broker imobiliar
+333901 agent reclama publicitara
+264203 corespondent special (tara si strainatate
+333903 impresar muzical
+264201 comentator publicist
+333905 manager sportiv
+264101 poet
+333907 agent servicii client
+263635 vestitor
+333909 organizator spectacole
+263633 staret - stareta
+333911 referent comert exterior
+263631 rabin
+333913 agent de nava
+334201 secretar procuratura
+334301 secretar administrativ
+263629 protopop
+334303 asistent manager
+263627 preot
+334401 registrator medical
+263625 pastor
+335101 controlor vamal, controlor pentru datoria vamala (studii medii
+263623 muftiu
+335103 referent TIR si tranzite (studii medii
+263621 mitropolit
+335105 expert/ inspector vamal
+263619 majghian
+335107 inspector de trafic rutier (studii medii
+335201 inspector taxe si impozite
+263617 imam
+335203 perceptor
+335401 inspector pensii, asigurari sociale si asistenta sociala
+263615 harmonist
+335403 inspector pentru acordarea de permise, licente sau autorizatii
+263613 exarh
+335405 inspector tehnic
+263611 diacon
+335501 inspector de politie
+263609 consilier culte
+335503 anchetator politie
+263607 chevrasames
+335901 inspector metrolog
+263605 capelan
+335903 inspector salarii
+263603 arhondar
+341101 agent procedural
+341103 grefier
+263601 arhiepiscop
+341105 tehnician criminalist
+263511 asistent de cercetare în asistenta sociala
+341107 executor judecatoresc (tribunal, judecatorie
+263509 asistent pentru îngrijirea persoanelor vârstnice
+341109 expert tehnic judiciar
+263507 specialist în angajare asistata
+341111 grefier documentarist
+263505 asistent social cu competenta în sanatatea mintala
+341113 asistent registrator
+263503 ofiter control doping
+341115 grefier registrator
+263501 asistent social
+341201 tehnician asisten?a sociala
+263419 terapeut ocupational
+341203 lucrator social pentru persoane cu probleme de dependenta
+263417 cercetator în psihopedagogie speciala
+341205 lucrator de tineret
+263415 cercetator în psihologie
+341207 tehnician egalitate de ?anse
+341301 calugar
+263413 expert poligraf
+341303 predicator
+341401 învatator
+263409 psiholog în specialitatea psihologie aplicata în domeniul securitatii nationale
+341501 educatoare
+263407 psiholog în specialitatea psihologie educationala, consiliere scolara si vocationala
+341601 instructor scolar auto
+341901 maistru instructor
+263405 psiholog în specialitatea psihologia transporturilor
+341903 secretar scoala
+263403 psiholog în specialitatea psihoterapie
+341905 mediator scolar
+342101 fotbalist profesionist
+263401 psiholog în specialitatea psihologie clinica
+342103 jucator de rugbi
+263309 cercetator în stiintele politice
+342105 sportiv de performan?a
+342201 antrenor
+263307 cercetator în istorie
+342203 secretar federatie
+263305 cercetator în filozofie
+342205 instructor arte martiale
+263303 istoriograf
+342207 antrenor coordonator
+263301 filozof
+342209 preparator sportiv
+263219 expert localizare
+342211 oficial sportiv acreditat
+263217 asistent de cercetare în etnologie
+342213 supraveghetor în poligonul de tir
+263215 asistent de cercetare în arheologie
+342215 instructor educatie acvatica
+263213 asistent de cercetare în geografie
+342217 organizator evenimente sportive
+263211 asistent de cercetare în antropologie
+342219 steward sportiv
+263209 asistent de cercetare în sociologie
+342301 animator sportiv
+263207 cercetator de dezvoltare comunitara
+342303 antrenor de fitness
+263205 analist teritorial
+342305 instructor educatie fizica
+263203 analist de mediu
+342307 instructor speologie
+263201 sociolog
+343101 fotograf
+263125 asistent de cercetare economist în gestiunea economica
+343103 retusor foto
+263123 asistent de cercetare economist în relatii economice internationale
+343201 butafor
+263121 asistent de cercetare economist în marketing
+343203 desenator artistic (studii medii
+263119 asistent de cercetare economist în economie agroalimentara
+343205 desenator artistic (studii superioare
+343301 restaurator opere de arta si monumente istorice (studii medii
+263117 asistent de cercetare economist în economia generala
+343303 restaurator bunuri culturale (studii medii
+263115 asistent de cercetare economist în economia mediului
+343305 restaurator arhiva (studii medii
+263113 asistent de cercetare economist în management
+343401 sef de sala restaurant
+263111 administrator financiar (patrimoniu (studii superioare
+343403 bucatar - sef
+263109 inginer economist
+343405 inspector calitate productie culinara
+343501 mânuitor, montator decor
+263107 consultant în management
+343503 tehnician reclame (decorator
+263105 consilier/ expert/ inspector/ referent/ economist în relatii economice internationale
+343505 maestru de sunet
+263103 consilier/ expert/ inspector/ referent/ economist în economia mediului
+343507 tehnoredactor
+263101 consilier/ expert/ inspector/ referent/ economist în management
+343509 organizator de productie
+262207 referent de specialitate asezamânt cultural
+343511 reporter (studii medii
+262205 lector carte
+343513 peruchier
+262203 documentarist (studii superioare
+343515 ghid de animatie
+262201 bibliograf
+343517 traducator (studii medii
+262113 conservator/ restaurator vitralii si componente artistice din sticla la monumente istorice
+343519 copywriter publicitate (studii medii
+262111 conservator/ restaurator componente artistice din metal la monumente istorice
+343521 electrician iluminare scena
+262109 conservator/ restaurator pictura pe lemn
+343523 gestionar custode sala
+351101 operator calculator electronic si retele
+262107 restaurator bunuri culturale (studii superioare
+351103 tehnician echipamente de calcul si retele
+262105 conservator arhiva (studii superioare
+351105 administrator sistem documentar
+262103 muzeograf
+351107 operator suport tehnic pentru servicii de comunicatii electronice
+351201 programator ajutor
+262101 arhivist
+352101 acustician cinematografic
+261923 asistent registrator principal
+352103 electrician iluminare filmare
+261921 consilier de probatiune
+352105 maistru aparate video si sunet
+261919 specialist proprietate intelectuala
+352107 mecanic camera filmare
+261917 executor bancar
+352109 montor negative si de pregatire a peliculei
+261915 cercetator în domeniul stiintelor juridice
+352111 operator camera diafilm, diapozitive
+261913 registrator carte funciara
+352113 operator productie RTV
+261911 expert armonizare legislativa
+352115 proiectionist
+261903 expert jurist
+352117 stantator de filme
+261901 executor judecatoresc
+352119 editor imagine
+261205 asistent judiciar
+352121 ilustrator muzical
+261203 magistrat - asistent
+352123 montor emisie
+261201 procuror
+352125 operator radio-radioficare
+261103 consilier juridic
+352127 tehnician radioelectronist
+261101 avocat
+352129 operator dispecer sisteme de monitorizare si aparatura de control
+252901 specialist SIG/IT
+352131 cameraman
+252301 administrator de retea de calculatoare
+352133 radioelectronist statii de emisie radio-TV
+252201 administrator sistem de securitate bancara
+352135 designer video
+352201 sef formatie sisteme radiante (antene
+252101 administrator baze de date
+352203 tehnician radiolocatii
+251901 consultant în informatica
+352205 inspector exploatare postala
+251401 specialist în domeniul proiectarii asistate pe calculator
+352207 tehnician statii radiorelee si satelit
+251303 specialist în e-Media
+352209 pilonist antenist
+251301 specialist e-Afaceri
+352211 operator retele de telecomunicatii
+251205 inginer de sistem software
+352213 maistru transporturi, posta si telecomunicatii
+251203 inginer de sistem în informatica
+352215 tehnician proiectant transporturi si comunicatii
+411001 functionar administrativ
+251201 analist
+411003 referent de stare civila
+412001 secretara
+251101 proiectant sisteme informatice
+412003 secretara prelucrare texte
+413101 dactilografa
+243301 analist cumparari/ consultant furnizori
+413103 referent transmitere
+243221 arbitru
+413105 teletipist
+243219 asistent comercial
+413107 telebanker
+413201 operator introducere, validare si prelucrare date
+243217 asistent director/ responsabil de functiune (studii superioare
+413203 operator procesare text si imagine
+243215 specialist garantii auto
+413205 operator masina contabilizat
+243213 expert relatii externe
+413207 asistent analist de informatii
+421101 casier tezaur
+243211 prezentator expozitii
+421103 mânuitor valori (presa, posta
+243209 organizator relatii
+421105 verificator bani
+243207 brand manager
+421107 casier trezorier
+243205 consultant cameral
+421109 sef supraveghere case
+243203 referent de specialitate marketing
+421111 operator ghiseu birouri de schimb
+243201 specialist în relatii publice
+421113 referent operatii între sedii
+243103 specialist marketing
+421115 operator gestionar loto
+421201 crupier
+243101 art director publicitate (studii medii
+421203 supraveghetor jocuri (cazino
+242903 manager de responsabilitate sociala
+421205 cap de masa (cazino
+421301 amanetar
+421401 agent fiscal
+242901 auditor responsabilitate sociala
+422101 agent de voiaj
+242411 evaluator în sistemul formarii profesionale continue
+422103 agent de turism tour-operator
+242409 evaluator de evaluatori
+422105 agent de transport international
+242407 administrator de formare
+422107 agent turism de afaceri
+242405 evaluator de competente profesionale
+422109 agent transporturi interne
+242403 organizator/ conceptor/ consultant formare
+422111 agent de turism pentru circuite tematice
+422301 oficiant telefoane
+242401 formator
+422303 radiotelegrafist
+242323 specialist în relatii de munca
+422305 telefonist instructor
+242321 specialist în compensatii si beneficii
+422307 operator registrator de urgenta
+422401 receptioner de hotel
+242319 specialist în formare
+422403 sef de receptie hotel
+242317 consultant în resurse umane
+422405 responsabil cazare
+422501 impiegat informatii
+242315 consilier vocational
+422601 receptionist
+431101 calculator pret cost
+242313 specialist sisteme de calificare
+431103 operator devize
+242311 consultant reconversie-mobilitate personal
+431201 agent bursa
+242309 analist recrutare/ integrare salariati
+431203 administrator financiar (patrimoniu studii medii
+431301 pontator
+432101 gestionar depozit
+242307 consultant în domeniul fortei de munca
+432103 operator siloz (silozar
+242305 referent de specialitate forta de munca si somaj
+432105 recuziter
+242303 inspector de specialitate forta de munca si somaj
+432107 trezorier (studii medii
+432109 pivnicer
+242301 consilier forta de munca si somaj
+432111 lucrator gestionar
+242229 consilier dezvoltare locala ?i regionala
+432201 dispecer
+242227 ofiter de legatura pentru securitatea infrastructurii critice nationale/europene
+432203 lansator produse
+242225 consilier de stare civila
+432205 dispecer operatiuni salubrizare
+432301 agent transporturi
+242223 investigator
+432303 controlor trafic
+242221 expert/specialist în parteneriat public-privat
+432305 impiegat informatii aviatie
+242219 expert aplicare legislatie armonizata în domeniul industriei si comertului
+432307 însotitor vagoane
+242217 expert informatii pentru afaceri
+432309 inspector exploatare trafic
+242215 referent relatii externe
+432311 instructor revizie vagoane
+242213 expert accesare fonduri structurale si de coeziune europene
+432313 operator circulatie miscare
+242211 administrator publicatii
+432315 operator dana
+242209 inspector de integritate
+432317 picher
+242207 agent de dezvoltare
+432319 revizor tehnic vagoane
+242205 consultant în administratia publica
+432321 sef agentie colectare si expeditie marfuri
+242203 inspector de specialitate în administratia publica
+432323 avizier cai ferate
+242201 consilier administratia publica
+432325 sef statie taxare
+242117 manager de facilitati
+432327 sef tura pregatirea personalului la vagon-restaurant si de dormit
+242115 evaluator de risc la securitatea fizica
+432329 veghetor încarcare-descarcare
+242113 consultant de securitate
+432331 expeditor international
+242111 administrator societate comerciala
+432333 agent curier
+242109 specialist plan progres
+432335 impiegat de miscare metrou
+242107 expert în conducerea si organizarea activitatilor de mentenanta
+432337 operator portuar stivator
+242105 coordonator secretariat studiouri teritoriale
+432339 operator portuar dispecer/ planificator
+242103 specialist strategie industriala
+432341 referent de specialitate TIR si tranzite (studii superioare
+242101 manager proiect
+432343 referent protocol aeroportuar
+241311 specialist/ analist organizare
+441101 bibliotecar (studii medii
+241309 analist financiar bancar
+441103 filmotecar
+241307 asistent analist
+441105 fototecar
+241305 analist financiar
+441107 videotecar
+441201 agent postal
+241303 cercetator în gestiune, contabilitate, control financiar
+441203 cartator presa
+241301 cercetator în finante-banci
+441205 diriginte posta
+241271 specialist pentru piata de capital
+441207 inspector telegrame
+241269 consultant de investitii
+441209 oficiant presa
+241267 evaluator bunuri culturale
+441211 responsabil tura expeditie
+241265 broker de tehnologii
+441301 codificator
+241263 evaluator proiecte
+441303 corector-revizor poligrafie
+441501 arhivar
+241261 expert elaborare-evaluare documentatii achizitii investitionale
+441601 referent evidenta persoanelor
+441901 functionar ghiseu servicii publice
+241259 expert eficientizare investitii
+441903 expert rela?ii sociale
+511101 însotitor de bord
+241257 expert contractare activitati investitionale
+511201 conductor tren
+241255 planificator/ specialist plan sinteze
+511203 controlor bilete
+241253 expert evaluator de bunuri mobile
+511205 controlor acces metrou
+241251 expert evaluator de întreprinderi
+511207 însotitor pasageri în transportul rutier
+511301 ghid de turism
+241249 inspector coordonator daune
+511303 ghid national de turism (tour-operator
+241247 inspector de risc
+511305 ghid galerii de arta/ interpret
+241245 consilier vânzari asigurari
+511307 ghid turism ornitologic
+241243 inspector de specialitate subscriere
+511309 ghid turism ecvestru
+241241 analist credite
+511311 ghid montan
+241239 ofiter securitatea informatiei (Security Officer – SO
+511313 însotitor grup turistic
+241237 ofiter conformitate
+511315 ranger
+241235 agent compensare (interbancara
+511317 animator de hotel
+241233 proiectant produse bancare
+511319 ghid turistic pentru pe?teri amenajate
+241231 administrator bancar/ produs leasing
+512001 bucatar
+241229 analist bancar/ societate de leasing
+512003 bucatar specialist/ vegetarian/ dietetician
+241227 manager relatii cu clientii bancii/ societate de leasing
+513101 ajutor ospatar
+241225 manager banca
+513103 somelier
+513201 barman
+241223 inspector general de banca
+514101 coafor
+241221 expert fiscal
+514103 coafor stilist
+514201 cosmetician
+241219 administrator judiciar
+514203 pedichiurist
+241217 specialist evaluare daune
+514205 machior
+241215 administrator credite
+514207 montator bijuterii pe corp
+241213 consultant plasamente valori mobiliare
+514209 operator între?inere corporala
+515101 cabanier
+241211 analist investitii
+515103 lenjereasa de hotel
+241209 dealer
+515105 administrator piete si târguri
+241207 comisar principal
+515107 sef cantina
+241205 inspector financiar-bancar
+515201 gospodar
+241203 consilier financiar-bancar
+515203 administrator pensiune turistica
+241201 cenzor
+515301 îngrijitor cladiri
+241107 auditor financiar
+515303 administrator imobile
+516101 astrolog
+516201 camerista hotel
+241105 auditor intern
+516203 valet
+516301 antreprenor servicii funerare
+241103 revizor contabil
+516303 îmbalsamator
+516401 îngrijitor farmacii, cabinete veterinare
+241101 controlor tezaur
+235921 inspector scolar pentru proiecte educationale
+516901 agent dezinfectie, deratizare, dezinsectie
+235919 director Centrul Judetean de Resurse si Asistenta Educationala (CJRAE
+516903 organizator prestari servicii
+235917 inspector scolar pentru învatamânt particular si alternative educationale
+516905 raportor ecolog
+235915 inspector scolar pentru dezvoltarea resursei umane
+516907 animator socioeducativ
+235913 inspector scolar pentru managementul resurselor umane
+516909 lucrator pensiune turistica
+235905 dezvoltator de e-learning
+516911 prestidigitator
+235903 consilier scolar
+516913 lucrator interpret în limbaj mimico-gestual
+521201 vânzator ambulant de produse alimentare
+522101 vânzator
+522201 anticar
+522301 librar
+235901 secretar institut, facultate
+522303 lucrator comercial
+235205 pedagog de recuperare
+522305 vânzator de produse naturiste
+523001 taxator
+235203 educator în unitati de handicapati
+523003 casier
+235201 defectolog
+524101 manechin
+235105 inspector scolar
+524103 prezentator moda
+524301 vânzator la domiciliul clientului pe baza de comanda
+524601 bufetier
+531101 îngrijitor de copii
+235103 consilier învatamânt
+531103 baby sitter
+531201 asistent maternal
+235101 cercetator în pedagogie
+531203 educator specializat
+532101 baies
+234201 profesor în învatamântul prescolar
+532103 infirmier/infirmiera
+234101 profesor în învatamântul primar
+532105 lacar
+233001 profesor în învatamântul liceal, postliceal
+532201 îngrijitor batrâni la domiciliu
+232001 profesor în învatamântul profesional si de maistri
+532203 asistent personal al persoanei cu handicap grav
+231005 profesor universitar
+532901 mediator sanitar
+231003 lector universitar
+532903 lucrator prin arte combinate
+231001 asistent universitar
+532905 asistent personal de îngrijire
+226923 asistent medico-social
+532907 supraveghetor de noapte servicii sociale
+226921 asistent medical igiena ?i sanatate publica
+541101 sef compartiment pentru prevenire
+226919 asistent medical radiologie
+541103 specialisti pentru prevenire
+226917 chimist medical principal
+541105 sef grupa interventie
+226915 biochimist medical principal
+541201 agent politie comunitara
+541301 agent de penitenciare
+226913 biolog medical specialist
+541401 agent de securitate
+226911 consilier sportiv
+541403 agent de securitate incinta (magazin, hotel, întreprindere etc.
+226909 cercetator în educatie fizica si sport
+541405 ?ef serviciu paza
+226907 medic specialist psihiatru
+541407 agent transport valori
+226905 asistent medical (studii superioare
+541409 sef tura servicii securitate
+226903 medic legist
+541411 evaluator de risc de efractie
+226901 medic igienist
+541413 agent de securitate competi?ii sportive
+226701 optometrist (studii superioare
+541901 sef serviciu voluntar/ privat pentru situatii de urgenta
+226603 logoped
+541903 salvator la strand
+226601 instructor logoped
+541905 salvamar
+226503 nutritionist si dietetician
+541907 agent conducator câini de serviciu
+226501 asistent de nutritie
+541919 salvator din mediul subacvatic speologic
+611101 agricultor
+226405 kinetoterapeut
+611103 legumicultor
+226403 cercetator în fiziokinetoterapie
+611105 agricultor pentru culturi de câmp ecologice
+611201 arboricultor
+226401 fiziokinetoterapeut
+611203 florar-decorator
+226307 evaluator de risc si auditor în domeniul securitatii si sanatatii în munca
+611205 peisagist - floricultor
+226305 asistent de cercetare în bacteriologie, microbiologie, biochimie,farmacologie
+611207 pomicultor
+226303 coordonator în materie de securitate si sanatate în munca (studii superioare
+611301 fermier în horticultura
+226301 inginer clinic
+612101 cioban (oier
+226203 farmacist de specialitate
+612103 tocator de furaje
+226201 farmacist
+612105 crescator bovine
+226105 asistent de cercetare în medicina stomatologica
+612107 mamos porcine
+226103 medic stomatolog de specialitate
+612109 cioban montan
+226101 medic stomatolog
+612111 oier montan
+612201 crescator de pasari
+225005 asistent de cercetare în medicina veterinara
+612203 crescator de pasari pentru reproductie
+225003 medic veterinar - oncologie comparata
+612205 crescator de pui pentru carne
+225001 epizotolog
+612207 arbitru pentru pasari de rasa
+612301 apicultor
+223007 inforenergetician radiestezist
+612901 crescator de animale mici
+223005 instructor de educatie sanitara
+612903 crescator-îngrijitor de animale de laborator
+223003 instructor ergoterapie
+612905 antrenor cabaline
+223001 cercetator în medicina traditionala
+612907 herghelegiu
+613001 fermier în productia vegetala
+222201 moasa
+613003 agricultor în culturi vegetale si crescator de animale
+621001 cioplitor în lemn
+222101 asistent medical generalist
+621003 fasonator mecanic (cherestea
+221201 medic specialist
+621005 pepinierist
+221109 cercetator în medicina generala
+621007 protectionist silvic
+221107 medic primar
+621009 rezinator
+221105 inspector de specialitate medic
+621011 stivuitor si receptioner silvic
+221103 consilier medic
+621013 preparator mangal
+221101 medic medicina generala
+622101 lucrator în culturi acvatice
+216613 designer pagini web (studii medii
+622201 pescar în ape interioare si de coasta
+622301 pescar în mari si oceane
+622401 paznic de vânatoare
+711101 muncitor constructor bârne, chirpici, piatra
+216611 designer grafica (studii superioare
+711103 confectioner plase si pânze rabit din stuf
+216609 art director
+711201 sobar
+216607 designer floral
+711203 zidar pietrar
+216605 asistent regizor studio
+711205 zidar rosar-tencuitor
+216603 intermediarist film desene animate (studii medii
+711301 cioplitor în piatra si marmura
+216601 designer grafica (studii medii
+711303 gaterist la taiat blocuri de piatra, marmura
+216509 geomatician
+711305 restaurator piatra
+711401 betonist
+216507 consilier cadastru
+711403 montator elemente prefabricate din beton armat
+216505 inginer topograf minier
+711405 operator injectorist
+216503 subinginer geodez
+711407 operator elemente din beton precomprimat cu armatura pretensionata
+711501 dulgher (exclusiv restaurator
+216501 cartograf
+711901 muncitor hidrometru
+216401 urbanist
+711903 sapator fântâni
+216313 asistent de cercetare în arte plastice - sticla, ceramica, metal
+711905 cantonier
+216311 asistent de cercetare în arte plastice - textile (tapiserie, contexturi,moda, imprimeuri
+711907 constructor cai ferate
+216309 asistent de cercetare în arte plastice - design industrial
+711909 drenor canalist
+216307 designer vestimentar
+711911 finisor terasamente
+216305 pictor creator costume
+711913 muncitor constructor senal navigabil, lucrari hidrotehnice si portuare
+216303 lucrator în ateliere de modele
+711915 agent hidrotehnic
+216301 designer industrial
+711917 meserias întretinere cale
+216201 arhitect peisagistica si amenajarea teritoriului
+711919 meseriat întretinere poduri metalice, viaducte si tuneluri
+216109 cercetator în arhitectura
+711921 laborant determinari fizico-mecanice pentru lucrari de drumuri si poduri
+216107 referent de specialitate arhitect
+711923 sef echipa lucrari arta metrou
+216105 expert arhitect
+711925 muncitor în taieri structuri cu scule diamantate
+216103 arhitect restaurari
+712101 acoperitor-învelitor tigla, azbociment, tabla
+216101 arhitect cladiri
+712201 faiantar
+215315 sef studio RTV
+712203 mozaicar (exclusiv restaurator
+215313 consilier tehnic
+712205 mozaicar restaurator
+215311 subinginer proiectant comunicatii
+712207 montator placaje uscate
+712301 ipsosar (exclusiv restaurator
+215309 subinginer iluminat tehnologic
+712303 ipsosar restaurator ornamente din ipsos
+712401 izolator fonic
+215307 subinginer- sef car reportaj
+712403 izolator hidrofug
+215305 inginer sunet
+712405 izolator termic
+215303 inginer electrotehnist
+712407 asamblator-montator profile aluminiu si geam termopan
+215301 inginer emisie
+712409 confectioner tâmplarie din aluminiu si mase plastice
+215239 inginer de cercetare în automatica
+712411 confectioner-montator tâmplarie cu vitraj izolant
+215237 asistent de cercetare în calculatoare
+712413 sudor geomembrana
+215235 cercetator în calculatoare
+712415 montator materiale geotextile si geocompozite
+215233 inginer de cercetare în telecomenzi si electronica în transporturi
+712501 geamgiu
+712601 detector pierderi apa si gaze
+215231 asistent de cercetare în microelectronica
+712603 instalator frigotehnist
+215229 cercetator în microelectronica
+712605 instalator retele de distributie/ transport fluide
+215227 inginer de cercetare în comunicatii
+712607 verificator canale subterane
+215225 asistent de cercetare în electronica aplicata
+712609 instalator instalatii tehnico-sanitare si de gaze
+215223 cercetator în electronica aplicata
+712611 instalator autorizat proiectare executie si/ sau exploatare obiectiv/sisteme de distributie
+215221 inspector aeronautic
+712613 operator instalatii apa si canalizare
+215219 capitan port (studii superioare
+712615 instalator pentru sisteme geotermale
+712701 frigoriferist (frigotehnist
+713101 tapetar
+215217 subinginer electromecanic
+215215 proiectant inginer electromecanic
+713105 operator termoprotectie
+713201 lacuitor lemn
+215213 proiectant inginer electronist
+713203 finisor-lacuitor lemn
+215211 subinginer reglaje subansamble
+713205 vopsitor auto
+713301 cosar
+215209 subinginer automatist
+721101 modelier lemn
+215207 instructor linii
+721103 modelator-miezuitor
+215205 inginer productie
+721105 operator la masini de brichetat span
+215203 inginer navigatie
+721107 recuperator metale vechi
+215201 inginer electromecanic SCB
+721109 topitor fonta si neferoase
+215147 asistent de cercetare în energetica industriala
+721111 turnator fonta pe banda
+215145 cercetator în energetica industriala
+721113 turnator pregatitor otelarie
+215143 inginer de cercetare în electroenergetica
+721115 turnator metale si neferoase
+215141 asistent de cercetare în centrale nuclearoelectrice
+721201 brazor
+215139 cercetator în centrale nuclearoelectrice
+721203 sudor manual cu arc electric
+215137 inginer de cercetare în centrale termoelectrice
+721205 operator taiere
+215135 asistent de cercetare roboti industriali
+721207 sudor cu arc electric cu electrod nefuzibil în mediu de gaz protector
+215133 cercetator roboti industriali
+721301 cazangiu recipiente
+215131 inginer de cercetare în electromecanica
+721303 tinichigiu carosier
+215129 asistent de cercetare în metrologie
+721305 tinichigiu de santier
+215127 cercetator în metrologie
+721307 cazangiu tevar
+215125 inginer de cercetare în electrofizica
+721309 tinichigiu restaurator
+215123 asistent de cercetare în electrotehnica
+721311 tinichigiu sisteme de ventilatie
+215121 cercetator în electrotehnica
+721401 finisor cocleti
+215119 proiectant sisteme de securitate
+721403 confectioner capace de carde
+215117 inginer exploatare instalatii nucleare
+721405 confectioner plase din sârma
+215115 inginer centrale nuclearoelectrice
+721407 lacatus constructii metalice si navale
+215113 subinginer retele electrice
+721409 lacatus revizie vagoane
+215111 proiectant inginer energetician
+721411 lacatus-montator
+215109 inginer termoenergetica
+721413 reconditioner scule si utilaje petroliere
+215107 subinginer electroenergetica
+721415 pregatitor, montator, reparator ite, cocleti, lamele, spete
+215105 inginer electroenergetica
+721417 tubulator naval
+215103 dispecer retea distributie
+721419 masinist la confectionarea ambalajelor metalice
+215101 dispecer energetic feroviar
+721421 constructor-montator de structuri metalice
+214953 inspector/ referent în gestiunea materialelor si mijloacelor fixe
+721423 nituitor
+214951 expert tehnic extrajudiciar
+721425 masinist la confectionarea spetelor si spiralelor
+214949 expert prevenire - reducere riscuri tehnologice
+721427 lipitor si protejator spete
+214947 expert elaborare documentatii tehnice de montaj
+721429 masinist mecanic la confectionare garnituri carde
+214943 asistent de cercetare în tehnologia celulozei, hârtiei, poligrafiei si fibrelor
+721431 operator la montarea si conservarea produselor dupa probe
+214941 cercetator în tehnologia celulozei, hârtiei, poligrafiei si fibrelor
+721433 confectioner-montator structuri metalice pentru constructii
+214939 inginer de cercetare în tehnologie si echipamente neconventionale
+721435 mecanic operator
+721501 mecanic-montator instalatii cu cablu în silvicultura si exploatari forestiere
+722101 forjor-matriter
+214937 asistent de cercetare în prelucrarea lemnului
+722103 presator piese din pulberi metalice
+214935 cercetator în prelucrarea lemnului
+722105 presator, ambutisor la cald
+214933 asistent de cercetare în exploatari forestiere
+722107 forjor-arcurar
+214931 cercetator în exploatari forestiere
+722109 confectioner ferodouri
+214929 inginer de cercetare în confectii din piele si înlocuitori
+722111 cuptorar-termist pentru ferite
+214927 asistent de cercetare în tehnologia chimica a produselor textile, pieii, blanurilor si înlocuitorilor
+722113 formator-presator ferite
+214925 cercetator în tehnologia chimica a produselor textile, pieii, blanurilor si înlocuitorilor
+722115 controlor de calitate la forjare
+214923 inginer de cercetare în tricotaje-confectii textile
+722117 debitator-ebosator
+214921 asistent de cercetare în filatura-tesatorie
+722201 lacatus SDV
+214919 cercetator în filatura-tesatorie
+722203 lacatus AMC
+214917 cercetator în informatica
+722205 prelucrator prin electroeroziune
+214915 inspector de specialitate inginer tehnologia celulozei si hârtiei
+722207 lacatus constructii structuri aeronave
+722301 reglor la masini pentru fabricarea cablurilor, conductorilor electrici si materialelor electrice
+214913 consilier inginer tehnologia celulozei si hârtiei
+722303 reglor benzi montaj
+214911 subinginer tehnologia celulozei si hârtiei
+722305 reglor masini de bobinat si platinat
+214909 proiectant inginer ceramica, sticla
+722307 reglor masini-unelte
+214907 inspector de specialitate inginer prelucrarea sticlei si ceramicii
+722309 reglor la masini pentru fabricarea lampilor electrice
+214905 consilier inginer prelucrarea sticlei si ceramicii
+722311 conductor de instalatii
+214903 inginer materiale de constructii
+722313 dozator la fabricarea electrozilor de sudura
+214901 inginer prelucrarea sticlei si ceramicii
+722315 degresator-imersioner
+214657 asistent de cercetare în instalatii si utilaje pentru transportul si depozitarea produselor petroliere
+722317 masinist la masini speciale fara aschiere
+214655 asistent de cercetare în tehnologii carbochimice
+722319 pregatitor sârma
+214653 cercetator în tehnologii carbochimice
+722321 masinist la masini speciale de aschiere
+214651 inginer de cercetare în stiinta materialelor
+722323 operator la masini-unelte cu comanda numerica
+214649 asistent de cercetare în prelucrari plastice si tratamente termice
+722401 ascutitor laminate la cald
+214647 cercetator în prelucrari plastice si tratamente termice
+722403 ascutitor-calitor garnituri de carde
+214645 inginer de cercetare în turnarea metalelor
+722405 debitator-slefuitor perii de masini electrice
+214643 asistent de cercetare în metalurgia neferoasa
+722407 slefuitor metale
+214641 cercetator în metalurgia neferoasa
+722409 gauritor- filetator
+214639 inginer de cercetare în ingineria proceselor siderurgice
+722411 rabotor-mortezor universal
+214637 asistent de cercetare în topografie miniera
+722413 strungar universal
+214635 cercetator în topografie miniera
+722415 frezor la masini roti dintate
+214633 inginer de cercetare în petrol (extractie-prospectiune
+722417 rabotor-mortezor roti dintate
+214631 asistent de cercetare în prepararea substantelor minerale utile
+722419 strungar la strung paralel si de detalonat
+214629 cercetator în prepararea substantelor minerale utile
+722421 strungar la strung carusel
+214627 inginer de cercetare în exploatari miniere
+722423 strungar la masini de alezat
+214625 inginer mineralurg
+722425 strungar la masini de strunjit roti cai ferate
+214623 proiectant inginer metalurg
+722427 slefuitor metale cu plumb industria de armament
+214621 proiectant inginer petrolist
+722429 curatitor-sablator
+723101 electrician auto
+214619 expert inginer petrolist
+723103 mecanic auto
+214617 subinginer petrolist
+723105 operator pregatire încercari vehicule
+723201 mecanic aviatie
+723301 lacatus-montator agregate energetice si de transport
+214615 inginer metalurgie neferoasa
+723303 mecanic agricol
+214613 referent de specialitate inginer minier
+723305 ungator-gresor
+214611 expert inginer minier
+723307 mecanic întretinere si reparatii masini de cusut industriale
+214609 referent de specialitate inginer metalurg
+723309 mecanic masini agricole
+214607 expert inginer metalurg
+723311 mecanic întretinere si reparatii utilaje din industria textila, confectii si încaltaminte
+731101 AMC-ist
+214605 inginer preparator minier
+731103 blocator, chituitor, deblocator
+214603 subinginer metalurgist
+731105 centrator, debordator piese optice
+214601 inginer metalurgie extractiva
+731107 degresator, curatator piese si aparate optice
+214535 asistent de cercetare în controlul calitatii produselor alimentare
+731109 montator aparatura optica
+214533 cercetator în controlul calitatii produselor alimentare
+731111 optician armament
+214531 inginer de cercetare în tehnologia compusilor macromoleculari
+731113 presator piese optice
+214529 asistent de cercetare în petrochimie si carbochimie
+731115 reparator stilouri, brichete
+214527 cercetator în petrochimie si carbochimie
+731117 gravor piese optice
+214525 inginer de cercetare în tehnologia substantelor organice
+731119 metrolog si depanator mecanica fina, tehnica digitala si analogica (MFTDA
+214523 asistent de cercetare în tehnologia substantelor anorganice
+731201 acordor acordeoane, armonici
+214521 cercetator în tehnologia substantelor anorganice
+731203 caserator si slefuitor de celuloid pentru carcase acordeoane
+214519 inspector de specialitate inginer industria alimentara
+731205 constructor claviatura
+214517 consilier inginer industria alimentara
+731207 constructor-reparator de alte instrumente muzicale (suflat, percutie
+214515 subinginer în industria alimentara
+731209 montator corp sonor la piane
+214513 inginer chimist
+731211 montator-ajustor de acordeoane
+214511 referent de specialitate petrochimist
+731213 constructor restaurator de orgi
+731301 argintar
+214509 expert inginer petrochimist
+731303 cizelator
+214507 referent de specialitate inginer chimist
+731305 confectioner stampile de cauciuc, metal, facsimile
+214505 expert inginer chimist
+731307 tintuitor
+214503 proiectant inginer chimist
+731309 giuvaergiu
+214501 inginer petrochimist
+731311 maistru bijutier
+731401 aplicator de detalii la produse din ceramica
+214487 cercetator în instalatii si utilaje pentru transportul si depozitarea produselor petroliere
+731403 turnator produse ceramice
+214485 inginer de cercetare în masini si instalatii mecanice
+731405 glazurator produse din ceramica fina
+214483 asistent de cercetare în creatia tehnica în constructia de masini
+731407 olar ceramica (artizanat
+214481 cercetator în creatia tehnica în constructia de masini
+731409 presator produse ceramice
+214479 inginer de cercetare în utilaje si tehnologia ambalarii
+731411 slefuitor produse din ceramica fina
+731501 brigadier la fabricarea sticlei
+214477 asistent de cercetare în utilaje si instalatii portuare
+731503 tragator, slefuitor, gradator nivele
+214475 cercetator în utilaje si instalatii portuare
+731505 prelucrator topitura sticla la teava
+214473 inginer de cercetare în autovehicule rutiere
+731601 pictor decor
+214471 asistent de cercetare în constructii de masini agricole
+731603 gravor produse de sticla
+214469 cercetator în constructii de masini agricole
+731605 pictor pe sticla si ceramica
+214467 inginer de cercetare în tehnologia constructiilor de masini
+731701 confectioner piese, linguri, spite, albii, donite, cozi de unelte, sindrila, ciubere
+214465 asistent de cercetare în mecanica fina
+731703 confectioner obiecte artizanale din lemn
+214463 cercetator în mecanica fina
+731705 confectioner garnituri pentru etansare
+214461 inginer de cercetare în echipamente de proces
+731707 ramar poleitor
+214459 asistent de cercetare în masini hidraulice si pneumatice
+731709 confectioner creta scolara
+214457 cercetator în masini hidraulice si pneumatice
+731711 dogar manual
+214455 inginer de cercetare în masini si echipamente termice
+731713 lumânarar
+214453 asistent de cercetare în echipamente si instalatii de bord
+731715 confectioner nasturi, piepteni
+214451 cercetator în echipamente si instalatii de bord
+731717 confectioner obiecte din ipsos
+214449 inginer de cercetare în sisteme de propulsie
+731719 confectioner corzi din intestine
+214447 inginer pentru protectia navigatiei aeriene (comunicatii, navigatie, supraveghere
+731721 confectioner materiale didactice pentru stiintele naturii
+214445 inginer tehnolog în fabricarea armamentului si munitiei
+731723 confectioner maturi
+214443 specialist mentenanta mecanica echipamente industriale
+731725 împletitor obiecte din foi de porumb
+214441 specialist reglementari/ carti de identitate vehicule/ verificari tehnice înmatriculare/ inspectii tehnice/ 
+731727 legator de par
+214439 inginer pilot de încercare
+731729 prelucrator de par la masina
+214437 proiectant inginer aeronave
+731731 împletitor din panglica împletita
+214435 inspector de specialitate inginer mecanic
+731733 fierbator-uscator de par
+731801 confectioner plase pescaresti
+214433 consilier inginer mecanic
+731803 confectioner bibelouri din Jenille
+214431 subinginer mecanic utilaje pentru industria lemnului
+731805 velator-matisor
+214429 subinginer mecanic instalatii navale de bord
+731807 ghemuitor
+214427 subinginer mecanic avioane si motoare de aviatie
+731809 cablator frânghii
+214425 subinginer mecanic utilaj tehnologic pentru chimie
+731811 confectioner unelte pescuit din plase
+214423 subinginer mecanic material rulant de cale ferata
+731813 prelucrator de fulgi si pene
+214421 subinginer mecanic utilaje si tehnica sudurii
+731815 ajutor maistru filator
+214419 inginer mecanic masini instalatii miniere
+731817 tricoter manual
+214417 inginer mecanic utilaj tehnologic pentru constructii
+731819 crosetor
+214415 inginer mecanic utilaj tehnologic masini agricole
+731821 confectioner preturi
+214413 inginer mecanic utilaj tehnologic chimic
+731823 pregatitor si confectioner cataloage mostre
+214411 inginer masini hidraulice si pneumatice
+731825 finisor textile (vopsitor, imprimeur
+214409 inginer mecanica fina
+731827 aburitor textile
+214407 inginer nave
+731829 tesator manual
+214405 inginer mecanica agricola
+731831 croitor manusi piele
+214403 inginer electromecanic minier
+731833 croitor-stantator articole marochinarie
+214401 inginer mecanic
+731835 pregatitor articole marochinarie
+214303 asistent de cercetare în centrale hidroelectrice în ingineria mediului
+731901 confectioner manual în metaloplastie
+214301 cercetator în centrale hidroelectrice în ingineria mediului
+731903 confectioner proteze ortopedice
+214237 specialist în iluminat
+731905 împletitor fibre plastice
+214235 specialist în urmarirea comportarii constructiilor
+732101 culegator la masina de cules si turnat rânduri (linotipist
+214233 asistent de cercetare în ingineria materialelor oxidice
+732103 culegator la masina de turnat rânduri pentru titluri (LUDLOV
+214231 cercetator în stiinta si ingineria materialelor oxidice
+732105 frezor-montator clisee
+214229 inginer de cercetare în instalatii
+732107 galvanotipist
+214227 asistent de cercetare în constructii miniere
+732109 zincograf
+214225 cercetator în constructii miniere
+732111 desenator cromolitograf
+214223 asistent de cercetare în constructii hidrotehnice
+732113 gravor placi metalice
+214221 cercetator în constructii hidrotehnice
+732115 fotogravor
+214219 inginer de cercetare în constructii de cai ferate, drumuri si poduri
+732117 manipulant cutter-plotter
+732201 tipograf turnator la masinile de turnat text
+214217 asistent de cercetare în constructii civile, industriale si agricole
+732203 imprimator serigraf
+214215 cercetator în constructii civile, industriale si agricole
+732205 serigraf
+214213 conducator de lucrari civile
+732207 tipograf-tiparitor
+214211 inspector de specialitate inginer constructii
+732209 operator la masina electronica de gravat
+214209 consilier inginer constructii
+732211 operator tiparituri Braille
+214207 proiectant inginer instalatii
+732213 operator xerox
+214205 inginer constructii hidrotehnice
+732215 tipograf print digital si offset
+214203 inginer instalatii pentru constructii
+732217 operator la masina de tampografiat
+214201 inginer constructii civile, industriale si agricole
+732301 legator manual (în poligrafie si ateliere speciale
+214141 auditor / evaluator sisteme de management de securitate
+732303 masinist în legatorie mecanica
+214139 auditor în managementul riscului
+741101 electrician în constructii
+214137 documentarist ordonantare logistica
+741103 instalator pentru sisteme fotovoltaice solare
+214135 logistician gestiune flux
+741105 montator instalatii solare
+214133 analist studiul materialelor
+741107 electrician constructor montator aparataj si cabluri de medie si înalta tensiune
+214131 analist calitate
+741109 electrician constructor pentru probe si încercari functionale
+214129 specialist în domeniul calitatii
+741201 electrician echipamente electrice si energetice
+214127 inginer de cercetare în pescuit si acvacultura
+741203 electromecanic reparator obiecte de uz casnic
+214125 asistent de cercetare în tehnologia prelucrarii produselor agricole
+741205 electrician aparate masura-control si automatizare în centrale termoelectrice si nuclearoelectrice
+214123 cercetator în tehnologia prelucrarii produselor agricole
+741207 bobinator condensatori pentru instalatii electrice
+214121 inspector de specialitate inginer industrializarea lemnului
+741209 bobinator transformatoare
+214119 consilier inginer industrializarea lemnului
+741211 montator, reglor si depanator pentru aparate de masura electrice si relee
+214117 inginer industrializarea lemnului
+741213 electrician nave
+214115 responsabil afacere
+741215 electromecanic masini si echipamente electrice
+214113 instructor sistem de productie
+741301 electrician exploatare centrale si statii electrice
+214111 specialist încercari componente vehicule/ grup motopropulsor/ optimizare energetica/ sisteme de masurare
+741303 electrician montare si reparatii cabluri electrice subterane
+214109 referent de specialitate inginer textile, pielarie
+741305 electrician montare si reparatii echipament electric din centrale, statii si posturi de transformare electrice
+214107 expert inginer textile, pielarie
+741307 electrician de întretinere si reparatii
+214105 proiectant inginer textile, pielarie
+741309 electrician montator de instalatii electrice la mijloace de transport
+214103 inginer tricotaje, confectii
+741311 electrician rural
+214101 inginer confectii piele si înlocuitori
+741313 electrician pentru utilizarea energiei electrice
+213309 specialist în management si remediere situri contaminate
+742101 electrician depanator utilaje calcul
+213307 inspector de specialitate în gospodarirea apelor
+742103 plantator elemente electronice
+213305 ecolog
+742105 tehnician pentru sisteme si instalatii de semnalizare, alarmare si alertare în caz de incendiu
+213303 referent de specialitate ecolog
+742201 automatist
+213301 expert ecolog
+742203 electromecanic radio-radioficare
+213257 asistent de cercetare în biotehnologie pentru agricultura
+742205 electromecanic retele linii
+213255 asistent de cercetare în zootehnie
+742207 electronist telecomunicatii
+213253 asistent de cercetare în silvicultura
+742209 linior
+213251 cercetator în silvicultura
+742211 electromecanic electroalimentare
+213249 inginer de cercetare în agromontanologie
+742213 electromecanic automatizari si telecomunicatii
+213247 asistent de cercetare în horticultura
+751101 carmangier
+213245 cercetator în horticultura
+751103 macelar
+213243 asistent de cercetare în pedologie-agrochimie
+751105 operator abatorizare pasari
+213241 asistent de cercetare în agricultura
+751107 afumator carne
+213239 cercetator în agricultura
+751109 operator prelucrarea carcaselor de pasare
+213237 administrator bunuri agricole
+751111 operator transare carcase de pasare
+751201 brutar
+213235 clasificator carcase
+751203 patiser
+213233 tehnician zootehnist - exploatare
+751205 operator la fabricarea produselor congelate de patiserie si panificatie
+751301 pasteurizator produse lactate
+213229 agent agricol
+751303 smântânitor
+751401 preparator conserve, legume si fructe
+213227 consultant tehnic în productia de cereale, plante tehnice si furaje
+751403 preparator castane, dovleac, porumb
+213225 inginer agronom
+751501 degustator
+751601 conditioner tutun pentru fabricarea tigaretelor
+752101 vopsitor lemn
+213223 inginer îmbunatatiri funciare
+752103 pregatitor placi fibrolemnoase si hârtie pentru filme
+213221 inspector de specialitate inginer silvic
+752201 tâmplar universal
+213219 consilier inginer silvic
+752203 tâmplar manual/ artizanal
+213217 proiectant inginer în zootehnie
+752205 asamblator lazi
+213215 inginer tehnolog în zootehnie
+752207 curbator-montator butoaie din lemn
+213213 subinginer agronom
+752209 corhanitor
+213211 inspector de specialitate inginer zootehnist
+752211 tâmplar manual la îmbinarea furnirelor
+213209 consilier inginer zootehnist
+752213 slefuitor, lustruitor
+213207 inspector de specialitate inginer horticol
+752215 gardinator
+213205 consilier inginer horticol
+752217 decupator lamele din lemn pentru lazi
+213203 inspector de specialitate inginer agronom
+752219 tâmplar restaurator
+213201 consilier inginer agronom
+752221 tâmplar binale
+752301 strungar în lemn
+213151 asistent de cercetare în antropologie biologica
+752303 taietor de precizie în lemn
+213149 asistent de cercetare în ingineria genetica
+752305 confectioner parchete
+213147 asistent de cercetare în ecologie si protectia mediului
+752307 impregnator-uscator chibrituri
+213145 asistent de cercetare în domeniul zoologic
+752309 masinist la umplerea si închiderea cutiilor de chibrituri
+213143 asistent de cercetare în botanica
+752311 fasonator calapoade
+213141 asistent de cercetare în biologie chimie
+752313 finisor calapoade
+213139 asistent de cercetare în microbiologie-bacteriologie
+752315 curbator lemn
+213137 asistent de cercetare în biologie
+752317 tâmplar mecanic la croit si dimensionat
+213135 microbiolog
+752319 tâmplar mecanic la frezat si gaurit
+213133 farmacolog
+752321 tâmplar mecanic la slefuit
+213131 inspector de specialitate microbiolog
+752323 înnobilator scândurele pentru creioane
+213129 consilier microbiolog
+752325 finisor creioane si tocuri
+213127 inspector de specialitate farmacolog
+752327 confectioner cutii de chibrituri din carton
+213125 consilier farmacolog
+753101 croitor
+213123 inspector de specialitate biochimist
+753103 confectioner palarii
+213121 consilier biochimist
+753105 plior confectii
+213119 inspector de specialitate bacteriolog
+753107 ceaprazar - sepcar
+213117 consilier bacteriolog
+753109 retusier confectii
+213115 zoolog
+753111 confectioner îmbracaminte din piele si înlocuitori, dupa comanda
+213111 inspector de specialitate zoolog
+753113 confectioner, prelucrator în industria textila
+753201 croitor - confectioner îmbracaminte, dupa comanda
+213109 consilier zoolog
+753203 confectioner corsete
+213107 inspector de specialitate botanist
+753205 planimetror sabloane
+213105 consilier botanist
+753301 broder manual
+213103 inspector de specialitate biolog
+753303 remaieur ciorapi
+213101 consilier biolog
+753305 broder la gherghef
+753401 tapiter
+212027 cercetator în demografie
+753403 plapumar
+753501 mestesugar argasitor
+212025 cercetator în statistica
+753503 mestesugar finisor mineral
+212023 cercetator în matematica informatica
+753505 mestesugar sortator în industria pielariei
+753601 cizmar - confectioner încaltaminte, dupa comanda
+212021 cercetator în matematica-fizica
+753603 confectioner încaltaminte ortopedica
+212019 cercetator în matematica aplicata
+753605 marochiner - confectioner marochinarie, dupa comanda
+212017 cercetator în matematica mecanica
+753607 talpuitor (confectioner - reparatii încaltaminte
+754101 scafandru
+212015 cercetator în matematica
+754103 scafandru sef grup
+212013 inspector de specialitate statistician
+754105 scafandru greu
+212011 consilier statistician
+754107 scafandru salvator
+212009 matematician
+754109 tehnician de scufundare
+754201 artificier de mina
+212007 inspector de specialitate actuar
+754203 pirotehnician cinematografie si teatru
+212005 consilier actuar
+754301 controlor calitate
+811101 miner în subteran
+212003 inspector de specialitate matematician
+811103 miner în subteran pentru constructii
+212001 consilier matematician
+811105 semnalist-cuplator
+211445 asistent de cercetare stiintifica în domeniul hidrologiei, hidrogeologiei si gospodaririi apelor
+811107 trolist
+811201 brichetator carbune
+211441 geomorfolog
+811203 operator la prepararea minereurilor
+211439 inginer de cercetare în geodezie
+811205 prajitor minereu
+211437 asistent de cercetare în geologie petroliera
+811207 spalator la prepararea carbunilor
+211435 asistent de cercetare în geochimie
+811209 separator la prepararea carbunilor
+211433 asistent de cercetare în mineralogia tehnica si experimentala
+811211 tocator la masini de maruntit roci
+211431 asistent de cercetare în geofizica
+811213 operator mineralurg
+811301 operator extractie titei
+211429 asistent de cercetare în geologie tehnica
+811303 operator-prospector lucrari geologice si geofizice
+211427 asistent de cercetare în geologie
+811305 operator extractie gaze
+211425 pedolog
+811307 operator extractie sare în salina
+211423 geofizician
+811309 operator lucrari speciale sonde
+211421 inginer geolog
+811311 sondor la interventii de sonde
+211419 inspector de specialitate pedolog
+811313 primitor-preparator produse fluide
+211417 consilier pedolog
+811401 cuptorar lianti
+211415 inspector de specialitate hidrolog
+811403 finisor produse din azbociment
+211413 consilier hidrolog
+811405 preparator pasta de azbociment
+211411 inspector de specialitate hidrogeolog
+811407 operator la impregnarea produselor hidroizolatoare
+211409 consilier hidrogeolog
+811409 operator la fabricarea vatei si produselor din vata minerala
+211407 inspector de specialitate geofizician
+811411 operator camera comanda pentru fabrica de ciment
+211405 consilier geofizician
+812101 cocsar
+211403 inspector de specialitate geolog
+812103 otelar
+211401 consilier geolog
+812105 melanjorist
+211311 asistent de cercetare în chimie fizica
+812107 dezbatator lingouri
+211309 asistent de cercetare în biochimie tehnologica
+812109 curatitor lingouri
+211307 asistent de cercetare în chimie
+812111 topitor la concentrate miniere
+211305 referent de specialitate chimist
+812113 electrometalurgist
+211303 expert chimist
+812115 turnator fonta
+211301 chimist
+812117 epurator gaze
+211209 cercetator în meteorologie
+812119 pregatitor de sarje
+211207 meteorolog aeronautic prognozist
+812121 aglomeratorist
+211205 consilier/ expert în meteorologie si domenii conexe
+812123 operator separare magnetica
+211203 climatolog
+812125 laminator, presator tevi plumb
+211201 meteorolog (studii superioare
+812127 laminator sârma
+211115 asistent de cercetare în constructii aerospatiale
+812129 laminator de bandaje si discuri
+211113 cercetator în constructii aerospatiale
+812131 laminator pe laminoare continue
+211111 inginer de cercetare de aeronave
+812133 presator de tevi la cald si profiluri prin extruziune
+211109 asistent de cercetare în astronomie
+812135 operator la cuptoare si instalatii pentru turnarea si laminarea metalelor
+211107 asistent de cercetare în fizica tehnologica
+812137 termist-tratamentist de produse brute, forjate, turnate sau laminate
+211105 asistent de cercetare în fizica-chimie
+812139 calitor prin inductie sau cu flacara
+211103 asistent de cercetare în fizica
+812141 termist-tratamentist
+211101 fizician
+812143 operator la pregatirea sarjelor pentru tratament termic
+143917 sef echipa interventii si supraveghere echipamente în serviciile de trafic aerian
+812145 decapator
+143915 sef birou/ statie/ tura meteo aeronautic/ de aerodrom
+812147 trefilator, tragator
+812201 galvanizator
+143913 sef serviciu statie, tura meteo
+812203 metalizator prin cufundare în metal topit
+143911 director de departament organizare evenimente
+812205 emailator
+143909 director de agentie de turism tour-operatoare/ detailista/ filiala/sucursala
+812207 matisor cabluri
+143907 conducator de întreprindere mica - patron (girant în turism
+812209 arzator email
+143905 sef laborator conservare-restaurare opere de arta
+812211 emailator firme si decoruri
+143903 sef unitate elementara de lucru
+812213 emailator prin pulverizare
+143901 sef atelier decorator
+812215 emailator prin imersiune
+143115 administrator structuri sportive
+812217 poleitor filiere
+143113 sef oficiu interjudetean difuzare film
+812219 confectioner izolatii la conductori electrici
+143111 sef sectie productie film
+812221 confectioner toroane si cablaje la conductori electrici
+143109 sef agentie concursuri hipice
+812223 preparator electrolit si amestec depolarizator
+143107 presedinte complex, club sportiv
+812225 asamblator elemente si baterii galvanice
+143105 manager al organizatiei culturale
+812227 confectioner celule de electroliza
+813101 operator la masini de macinare fina (produse chimice
+143103 consilier teritorial sef inspectoratul pentru cultura
+813103 operator la masini de amestecare (produse chimice
+143101 antrenor federatie sportiva
+813105 uscator în industria chimica
+142011 conducator întreprindere mica - patron (girant în comert
+813107 sinterizator
+142009 inginer sef firme de afaceri si alte servicii comerciale
+813109 împâslitor pânza sticla
+142007 sef departament marfuri alimentare/ nealimentare
+813111 preparator amestec si topitor sticla
+142005 vicepresedinte cooperativa de consum
+813113 extractorist în chimie
+142003 sef serviciu comert cu ridicata si cu amanuntul
+813115 concentrator-purificator în chimie
+142001 presedinte cooperativa de consum
+813117 operator chimist la producerea compusilor organici ai sulfului si îngrasamintelor fosfatice
+141203 director de departament catering
+813119 operator chimist la producerea diverselor produse anorganice
+141201 sef restaurant
+813121 operator chimist la fabricarea colorantilor
+141123 director de cazare
+813123 operator chimist la producerea compusilor anorganici ai azotului si îngrasamintelor azotoase
+141121 director cofetarie, patiserie
+813125 preparator lacuri, vopsele, paste de fludor folosite la aparataj electric
+141119 director disco-bar
+813127 operator cracare, deformare si fabricare bitum
+141117 director bar
+813129 operator chimist la chimizarea gazului de cocs
+141115 director berarie
+813131 operator la fabricarea pieii sintetice
+141113 director crama
+813133 finisor universal ferodouri
+141111 director restaurant
+813135 operator la fabricarea sapunurilor
+141109 director de sat de vacanta
+813137 operator la fabricarea detergentilor
+141107 director de hotel pentru tineret
+813139 preparator benzi cauciucate si compozitii emplastre
+141105 director de hotel
+813141 preparator la prepararea produselor cosmetice si de parfumerie
+141103 sef unitate balneoclimaterica
+813143 conditioner finisor produse explozive
+141101 conducator întreprindere mica - patron (girant în activitatea hoteliera si restaurante
+813145 confectioner produse pirotehnice
+134919 manager servicii private de securitate
+813147 pregatitor la produse explozive
+134917 sef oficiu, serviciu, sectie, redactie
+813149 confectioner cartuse de vânatoare
+134915 sef birou relatii unitati presa
+813151 operator la pregatirea, conservarea si ambalarea armamentului si munitiei
+134913 sef birou exploatare, coordonare presa
+813153 delaborator munitie
+134911 secretar general agentie presa, editura
+813155 operator la fabricarea altor produse chimice
+813201 fotoceramist
+134909 conducator întreprindere mica - patron (girant în prestari servicii
+813203 fotopoligraf
+134907 coordonator presa
+813205 montator filme
+134905 sef centru reparatii
+813207 pregatitor hârtie fotosensibila
+134903 inginer- sef întreprinderi de reparatii obiecte de uz casnic, curatatorii
+814101 preparator la confectionarea produselor industriale din cauciuc
+134901 sef expozitii si târguri
+814103 confectioner de produse industriale din cauciuc
+134601 sef serviciu/ sef birou asigurari
+814105 finisor-reparator de produse industriale din cauciuc
+134507 director palate si cluburi ale elevilor
+814107 confectioner garnituri de etansare din cauciuc
+134505 sef catedra
+814109 calandror la finisarea cauciucului
+134503 secretar stiintific învatamânt, cercetare
+814111 devulcanizator regenerare cauciuc
+134501 conducator tabara scolara
+814113 dozator prelucrare cauciuc
+134401 sef serviciu de reintegrare sociala si supraveghere
+814115 profilator produse din cauciuc
+134213 sora medicala sefa
+814117 cusator piese la încaltaminte din cauciuc
+134211 oficiant medical sef
+814119 vulcanizator la autoclava
+134209 medic sef sectie, laborator
+814121 valtar cauciuc electroizolant
+134207 laborant medical sef
+814123 masinist la confectionarea materialelor electroizolante stratificate (mica
+134205 farmacist sef sectie, laborator
+814125 presator-formator materiale stratificate, pregnator prize tehnice si banda izolatoare
+134203 biolog sef sectie, laborator
+814127 croitor pentru încaltaminte si articole tehnice din cauciuc
+134201 asistent medical sef
+814129 preparator placi de etansare comprimate
+133047 conducator întreprindere mica - patron (girant în comunicatii
+814201 preparator mase plastice
+133045 sef statie radiotelegrafie (RTG
+814203 operator la prelucrarea maselor plastice
+133043 diriginte oficiu telecomunicatii
+814205 finisor-asamblator obiecte din mase plastice
+133041 sef oficiu zonal posta
+814207 operator la confectionarea discurilor fonografice
+133039 telefonist- sef
+814209 operator mase plastice
+133037 sef statie televiziune
+814301 cartonagist
+133035 sef statie comunicatii prin satelit
+815101 decapsulator
+133033 sef serviciu navigatie
+815103 topitor in si cânepa
+133031 sef serviciu exploatare postala
+815105 înnobilator in si cânepa
+133029 sef retea telecomunicatii
+815107 lucrator în bataje (batator
+133027 sef laborator telecomunicatii
+815109 carbonizator textile
+133025 sef laborator masuratori telecomunicatii
+815111 pregatitor amestecuri în filaturi
+133023 sef formatie comunicatii
+815113 laminator benzi din fibre
+133021 sef centru zonal interventii radiorelee
+815115 zdrobitor si uleiator textile
+133019 sef centru (sectie, sector radiodifuziune
+815117 formator manusi fibre liberiene
+133017 sef centru dirijare zbor
+815119 curatitor-slefuitor garnituri carde
+133015 sef centru control calitate emisie televiziune
+815121 disponent în filaturi
+133013 sef centrala telefonica
+815123 prelucrator fire de matase din gogosi (filator
+133011 sef birou exploatare postala
+815125 finisor fire de matase naturala
+133009 conducator de întreprindere mica - patron (girant în informatica
+815201 operator la masini de tricotat rectiliniu
+133007 manager tehnologia informatiilor si comunicatii
+815203 snuruitor Jaqard
+133005 director divizie informatica
+815205 operator sculuitor
+133003 sef atelier informatica
+815207 operator la masini de urzit
+133001 director centru de calcul
+815209 operator navaditor, lipitor, înnodator fire
+132453 sef birou import-export
+815211 operator batirator fire
+132451 manager relatia cu furnizorii
+815213 pâslitor
+132449 manager farmacii
+815301 operator confectioner industrial îmbracaminte din tesaturi, tricotaje, materiale sintetice
+132447 sef statie uscare-conditionare cereale
+815303 operator la confectionarea industriala a îmbracamintei din blana
+132445 sef serviciu aprovizionare-desfacere
+815305 încadrator confectii
+132443 sef birou aprovizionare-desfacere
+815307 pregatitor-lansator confectii
+132441 sef trafic curierat intern
+815309 taietor confectii
+815401 operator gazator textile
+132439 conducator activitate de transport rutier
+815403 operator degamator textile
+132437 sef electrician maritim
+815405 operator albitor textile
+132435 sef mecanic instructor
+815407 operator mercerizator textile
+132433 sef garaj
+815409 operator vopsitor textile
+132431 sef cart
+815411 confectioner sabloane si cilindri de imprimat
+132429 sef statie teleferic
+815413 operator calandor-govrator textile
+132427 sef serviciu filiala Administratia Filiala Dunarea de Jos
+815415 operator decator
+132425 sef sectie/ adjunct (sector transporturi
+815417 operator fixator textile
+132423 sef revizie locomotive, automotoare
+815419 operator scamosetor
+132421 sef port
+815421 operator curatitor chimic
+132419 sef divizie cai ferate
+815423 operator taietor textile
+132417 sef depou/ adjunct
+815425 operator îngreunator matase naturala
+132415 sef birou/ serviciu transport maritim si fluvial
+815427 vaporizator la imprimerie
+132413 sef birou aeroport
+815429 presator axe la cilindrul de imprimat
+132411 sef atelier transporturi
+815501 operator cenuseritor
+132409 sef agentie navala
+815503 operator tabacitor vegetal
+132407 picher sef district
+815505 operator finisor vegetal
+132405 director zbor
+815507 operator sortator în industria pielariei
+132403 comandant coordonator grup mare pescuit oceanic
+815601 operator la prepararea talpii de încaltaminte din fibre
+132401 capitan- sef port
+815603 croitor-stantator piese încaltaminte
+132315 conducator întreprindere mica - patron (girant în constructii
+815605 cusator piese din piele si înlocuitori
+132313 sef sector exploatare îmbunatatiri funciare
+815607 talpuitor industrial
+132311 sef serviciu în constructii
+815901 operator la confectionarea industriala a palariilor
+132309 sef sector (sectie drumuri-poduri
+815903 operator la confectionarea industriala a articolelor de sport si protectie, din piele si înlocuitori
+132307 sef lot
+815905 pregatitor confectii industriale din blana
+132305 sef brigada complexa sau specializata
+815907 operator textile netesute
+816001 operator la prepararea conservelor din carne, peste si în amestec legume si peste
+132303 conducator antrepriza constructii-montaj
+816003 tripier
+132301 ajutor sef brigada în constructii
+816005 preparator faina din peste
+132235 sef formatie
+816007 operator la fabricarea mezelurilor
+132233 sef formatie la fabricarea armamentului si munitiei
+816009 preparator ulei de copite
+132231 sef dispecer energetic central (DEC
+816011 curatitor piei
+132229 sef/ sef adjunct statie electrica
+816013 preparator pepsina, cheag
+132227 supervizor geolog si foraj
+816015 operator la prepararea brânzeturilor
+132225 sef laborator industria petroliera
+816017 operator centru de racire lapte
+132223 sef formatie industria petroliera/ petrochimica
+816019 preparator conserve lapte si lactoza
+132221 sef atelier reparatii capitale
+816021 operator la fabricarea nutreturilor combinate
+132219 sef uzina, centrala electrica, gaze, apa
+816023 preparator mustar
+132217 sef serviciu tehnic si componente nucleare
+816025 decorticator crupe
+132215 sef centru prelucrare
+816027 operator la fabricarea produselor fainoase
+132213 sef brigada exploatare miniera
+816029 operator la fabricarea biscuitilor
+132211 inginer- sef radioprotectie
+816031 operator la fabricarea uleiurilor vegetale
+132209 conducator întreprindere mica - patron (girant industrie extractiva
+816033 operator la fabricarea zaharului
+132207 sef birou industrie extractiva
+816035 preparator de produse apicole
+132205 sef sectie industrie extractiva
+816037 operator la conditionarea si prelucrarea plantelor medicinale
+132203 sef sector industria extractiva
+816039 preparator halva
+132201 inginer-sef industria extractiva
+816041 operator la fabricarea berii
+132113 sef serviciu plan productie
+816043 operator la fabricarea spirtului si drojdiei de panificatie
+132111 sef birou tehnic
+816045 fermentator otet
+132109 manager securitate instalatii industria prelucratoare
+816047 preparator bauturi racoritoare
+132107 sef serviciu industrie prelucratoare
+816049 distilator rachiuri naturale
+132105 sef modul în industria prelucratoare
+816051 preparator coniac
+132103 sef sector industria prelucratoare
+816053 preparator sampanie
+817101 pregatitor lemn, stuf, paie
+132101 inginer-sef industria prelucratoare
+817103 fierbator-spalator celuloza, hârtie
+131203 conducator întreprindere mica - patron (girant în piscicultura si vânatoare
+817105 confectioner tambur filigranare
+131201 sef pastravarie
+817107 finisor hârtie, carton, mucava
+131121 sef sectie mecanizare
+817201 confectioner rondele din pluta
+131119 sef statie lucrari de irigatie si ameliorare a solului
+817203 confectioner colaci si centuri de salvare
+131117 sef statie productie, exploatare, întretinere în agricultura
+817205 masinist la masina de zdrobit si macinat pluta
+131115 sef pepiniera silvicola, pomicola, viticola
+817207 aburitor pluta
+131111 sef ferma agricola (agrozootehnica
+817209 pregatitor aschii
+131109 sef complex zootehnic
+817211 formator presator placi brute
+131107 sef district, centru, ocol silvic
+817213 tocatorist-defibratorist
+131105 sef centru protectia plantelor si mediului
+817215 presator PFL
+131103 inspector general vânatoare
+817217 formator PFL
+131101 hidrometeorolog-sef
+817219 fasonator-sortator filme
+122315 inspector-sef inspectia meteorologica nationala
+817221 formator la înnobilare PFL
+122313 director proiect
+817223 pregatitor PFL si hârtie pentru filme
+122311 sef atelier cercetare-proiectare
+817225 taietor la ferastrau panglica
+122309 sef proiect cercetare-proiectare
+817227 desenator-însemnator cherestea
+122307 director filiala cercetare-proiectare
+817229 derulatorist
+122305 sef formatie cercetare-dezvoltare
+817231 frezor-îmbinator furnire tehnice
+122303 secretar stiintific
+817233 formator slefuitor produse stratificate
+122301 arhitect-sef
+817235 miezuitor panele si placi celulare
+122203 sef serviciu reclama publicitara
+818101 topitor sticla
+122201 sef agentie reclama publicitara
+818103 prelucrator de topituri la instalatii de tras tevi
+122109 responsabil produs
+818105 cuptorar recoacere sticla
+122107 manager marketing (tarife, contracte, achizitii
+818107 taietor produse din sticla
+122105 sef casa compensatie
+818109 arzator produse din sticla
+122103 sef licitatie
+818111 argintar produse din sticla
+122101 sef serviciu marketing
+818113 operator la instalatii automate pentru prelucrarea topiturii de sticla
+121919 ?ef compartiment (studii superioare
+818115 operator la masini de inscriptionat
+121917 sef grup functional tehnic
+818117 operator la instalatii de tras si laminat geam
+121915 sef linie fabricatie
+818119 preparator vata de sticla
+121913 sef proces fabricatie
+818121 slefuitor/ sablator geam
+121911 prim-grefier
+818123 pregatitor de materii prime pentru producerea sticlei
+121909 grefier-sef (judecatorie, parchet
+818125 cuptorar ceramica fina si decor
+121907 registrator coordonator
+818127 operator la fabricarea produselor refractare
+121905 procuror sef birou/ serviciu
+818129 operator la fabricarea produselor din carbune
+121903 sef sectie
+818131 finisor produse abrazive
+121901 sef serviciu
+818133 cuptorar produse abrazive
+121309 manager pentru ordine si siguranta publica
+818135 cuptorar produse refractare
+121307 manager energetic
+818137 preparator-presator produse din carbune
+121303 inspector protectie civila
+818139 finisor produse din carbune
+121301 sef birou organizatie politica, obsteasca, umanitara
+818141 discuitor de produse ceramice la masini
+121209 sef birou resurse umane
+818143 armator de izolatori electrici (prelucrator produse electrotehnice
+818201 fochist locomotiva cu abur
+121207 manager resurse umane
+818203 masinist la instalatii pentru încalzit tren
+121205 sef serviciu resurse umane
+818205 ajutor fochist
+121203 sef birou somaj
+818207 fochist la cazane de apa calda si cazane de abur de joasa presiune
+121201 sef birou calificare si recalificare
+818301 masinist la masini de ambalat
+121129 sef birou contabilitate
+818303 operator ma?ini însacuire pentru fabrica de ciment
+121127 controlor revizor financiar
+818901 operator la roboti industriali
+121125 manager financiar
+818903 operator instalatie de sortare si reciclare deseuri menajere si asimilabile
+121123 sef birou/ serviciu/ sectie circumscriptie financiara
+818905 operator punct de lansare
+121121 controlor financiar
+818907 compresorist
+121119 comisar sef divizie Garda Financiara
+821101 lacatus montator pentru utilaje industriale, de constructii si agricole
+121117 coordonator conformitate
+821103 montator subansamble
+121113 director de arhiva banca
+821105 operator calitate flux
+121111 sef agentie bancara
+821201 lacatus-montator masini electrice rotative, transformatoare si aparataj electric
+121109 dealer-sef (arbitragist banca
+821203 morar la prepararea materialelor pentru acumulatori
+121107 sef serviciu/ sef birou/ banca/ societate de leasing
+821205 confectioner placi pentru acumulatori
+121105 sef departament banca/ sef-adjunct departament
+821207 montator acumulatori
+121103 director general/ director general adjunct banca/ societate de leasing
+821209 montator-reglor, depanator aparate electronice, telecomunicatii, radio
+121101 presedinte banca/ vicepresedinte/ prim-vicepresedinte
+821211 montator-reglor, depanator de instalatii de electronica si curenti purtatori
+112037 producator general
+821213 confectioner piese radio si semiconductori
+112035 director casa corpului didactic
+821215 confectioner scala radio
+112033 director resurse umane
+821217 montator, reglor, testor tehnica de calcul
+112031 director de societate comerciala agricola
+821219 confectioner lampi cu vapori de mercur
+112029 manager
+821221 confectioner becuri
+112027 director departament cercetare-dezvoltare
+821223 montator, reglor si depanator de aparate si echipamente electronice
+821901 asamblor biciclete
+112025 director general institut national de cercetare-dezvoltare
+821903 asamblor articole de sport
+112023 director sucursala
+821905 confectioner de bete, lansete, mânere si dopuri pentru unelte de pescuit
+112021 director magazin
+821907 confectioner-asamblor articole din carton
+112019 director/ director adjunct, inspector-sef
+821909 montor articole din piele
+831101 mecanic locomotiva si automotor
+112017 director comercial
+831103 conducator autodrezina
+112015 director general adjunct regie autonoma
+831105 mecanic locomotiva si rama electrica metrou
+112013 director de program
+831201 frânar
+112011 director general societate comerciala
+831203 sef manevra
+112009 medic (farmacist director
+831205 sef tren
+112007 director stiintific cercetare-dezvoltare
+831207 revizor ace
+832101 conducator de motocicleta
+112005 director adjunct societate comerciala
+832201 sofer de autoturisme si camionete
+112003 decan, rector, prorector, prodecan
+832203 sofer autoambulanta
+112001 comandant/ comandant adjunct aviatie
+833101 sofer autobuz
+111433 conducator de organizatii umanitare
+833103 conducator tramvai (vatman
+833201 sofer autocamion/ masina de mare tonaj
+111431 sef departament/ compartiment/ presedinte comisie organizatie profesionala, filiala judeteana/ municipiu
+833203 lucrator operativ pentru autocontainere
+111429 consilier presedinte organizatie profesionala nationala
+833205 camionagiu
+834101 tractorist
+111427 vicepresedinte organizatie profesionala, filiala judeteana/ municipiu
+834103 motorist la motoagregate si masini în silvicultura
+111425 secretar national organizatie profesionala nationala
+834105 mecanic de exploatare în zootehnie
+111423 presedinte organizatie profesionala nationala
+834201 masinist la masini pentru terasamente (ifronist
+111421 presedinte asociatie patronala
+834203 masinist la masini cale mecanizare usoara si grea
+111419 presedinte organizatie cooperatista
+834205 operator la utilaje de reabilitari conducte subterane
+111417 secretar asociatie teritoriala de organizatii cooperatiste
+834301 macaragiu
+111415 presedinte asociatie teritoriala de organizatii cooperatiste
+834303 funicularist
+111413 vicepresedinte asociatie nationala cooperatista
+834305 sofer automacaragiu
+111411 delegat sindical
+834307 funicularist, funiculare pasagere
+111409 vicepresedinte organizatie sindicala
+834309 liftier
+111407 secretar si secretar adjunct ai asociatiilor, filialelor si organizatiilor obstesti
+834311 sef echipa docheri
+111405 conducator de asociatii, filiale si organizatii obstesti
+834313 docher-amarator
+111403 vicepresedinte organizatie politica
+834315 macaragiu portuar
+111401 consilier organizatie politica
+834401 masinist la masini mobile pentru transporturi interioare
+111303 viceprimar
+834403 stivuitorist
+111301 primar
+834405 conducator autotrailer
+111239 investigator sef
+834407 stivuitorist portuar
+835001 marinar, pilot naval, barjist
+111237 secretar general Academie
+835003 marinar legator
+111235 viceconsul
+835005 pontonier feribot
+111233 consul
+835007 conducator de salupa maritima/ fluviala
+111231 vicepresedinte institutie publica
+835009 motopompist
+911101 menajera
+911201 femeie de serviciu
+111229 consilier prezidential
+911203 lucrator room-service hotel
+912101 calcatoreasa lenjerie
+111227 viceguvernator
+912103 spalatoreasa lenjerie
+111225 sef serviciu institutie publica
+912201 spalator vehicule
+912301 spalator vitrine si geamuri
+921201 îngrijitor animale
+921301 muncitor manipulare si pregatire furaje
+111223 sef departament
+921303 vacar
+921501 îngrijitor pomi
+111221 sef cabinet
+921503 taietor manual lemn de foc
+921601 muncitor necalificat în pescuit si vânatoare
+111219 secretar general
+931101 muncitor necalificat în mine si cariere
+111217 secretar-sef notariat
+931201 lucrator la amenajarea terenurilor sportive (amenajator baza sportiva
+111215 notar-sef
+931203 muncitor necalificat la întretinerea de drumuri, sosele, poduri, baraje
+111213 inspector-sef în administratia publica
+931301 muncitor necalificat la demolarea cladirilor, captuseli zidarie, placi mozaic, faianta, gresie, parchet
+111211 consilier economic
+932101 ambalator manual
+932901 îmbuteliator fluide sub presiune
+111209 director de cabinet
+932903 muncitor necalificat la ambalarea produselor sub forma de praf si granule
+111207 director institutie publica
+932905 muncitor necalificat în industria confectiilor
+111205 consilier al ministrului
+932907 lucrator sortator deseuri reciclabile
+111203 consilier si consultant juridic
+932909 muncitor în activitatea de gospodarire a spanului
+111201 consilier diplomatic
+932911 muncitor necalificat în metalurgie
+111139 presedinte Senat
+933101 caraus
+933301 încarcator-descarcator
+111137 ministru plenipotentiar
+933303 manipulant marfuri
+111135 ministru consilier
+933305 muncitor spalare si curatare cisterne
+111133 inspector general judecatoresc sef
+941201 lucrator bucatarie (spalator vase mari
+951001 lustragiu
+111131 secretar general adjunct al Consiliului Superior al Magistraturii
+952001 vânzator ambulant de produse nealimentare
+111129 inspector-sef al Inspectiei Judiciare de pe lânga Plenul Consiliului Superior al Magistraturii
+961101 lucrator operativ pentru autocompactoare
+961301 lucrator pentru salubrizare cai publice
+111127 secretar de stat
+961303 lucrator pentru salubrizare
+111125 secretar general al Guvernului
+962101 curier
+111123 procuror sef de sectie
+962103 comisioner
+111121 prim-ministru
+962201 îngrijitor câini în adaposturi
+111119 prim-procuror adjunct
+962203 incinerator
+111117 Presedintele României
+962301 cantaragiu
+111115 presedinte sectie (la Înalta Curte de Casatie si Justitie, la curtea de apel, tribunale si judecatorii
+962303 încasator si cititor contoare de energie electrica, gaze, apa
+962401 vidanjor-curatitor canale
+111113 presedinte de judecatorie
+962901 model (învatamânt
+111111 presedinte curte de apel
+962903 garderobier
+111109 presedinte Academie
+962905 aprod
+111107 senator
+962907 paznic
+111105 comisar general
+962909 portar
+111103 chestor Parlament
+962911 supraveghetor noapte (învatamânt
+111101 adjunct al procurorului general
