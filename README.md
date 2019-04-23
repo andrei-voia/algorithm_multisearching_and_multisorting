@@ -1,4 +1,4 @@
-# algorithm_multisearching_and_multisorting
+# Multisearching and Multisorting Algorithm
 
 * This is a simple algorithm that has 5 different options that you can choose from.
 * The code will demonstrate some different searching and sorting techniques.
